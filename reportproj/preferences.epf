@@ -1,4 +1,4 @@
-#Fri Aug 02 09:11:18 CEST 2013
+#Mon Aug 05 17:05:30 CEST 2013
 @org.eclipse.debug.ui=3.5.2.v20091028_r352
 /instance/org.eclipse.ui.editors/spellingEnabled=false
 /instance/de.exam.reportmanager/ReportHistoryPreference=rO0ABXNyABNqYXZhLnV0aWwuQXJyYXlMaXN0eIHSHZnHYZ0DAAFJAARzaXpleHAAAAAAdwQAAAAKeA\=\=
@@ -21,11 +21,11 @@
 /instance/org.eclipse.ui.views.log/orderValue=1
 /instance/de.exam.testrunner/DBActivePreference=true
 @org.eclipse.gef=3.5.1.v20090910-2020
-/instance/de.exam.testrunner/OverviewFileHistory=C\:\\Program Files (x86)\\EXAM\\userData\\reports\\Testrun____2013-08-01__16-03-15_\\Testrun____2013-08-01__16-03-15_.html;C\:\\Program Files (x86)\\EXAM\\userData\\reports\\Testrun____2013-08-01__15-59-40_\\Testrun____2013-08-01__15-59-40_.html;C\:\\Program Files (x86)\\EXAM\\userData\\reports\\Testrun____2013-08-01__15-58-59_\\Testrun____2013-08-01__15-58-59_.html;C\:\\Program Files (x86)\\EXAM\\userData\\reports\\Testrun____2013-08-01__15-54-38_\\Testrun____2013-08-01__15-54-38_.html;C\:\\Program Files (x86)\\EXAM\\userData\\reports\\Testrun____2013-08-01__15-53-57_\\Testrun____2013-08-01__15-53-57_.html
+/instance/de.exam.testrunner/OverviewFileHistory=C\:\\Program Files (x86)\\EXAM\\userData\\reports\\Testrun____2013-08-05__15-34-01_\\Testrun____2013-08-05__15-34-01_.html;C\:\\Program Files (x86)\\EXAM\\userData\\reports\\Testrun____2013-08-05__15-33-03_\\Testrun____2013-08-05__15-33-03_.html;C\:\\Program Files (x86)\\EXAM\\userData\\reports\\Testrun____2013-08-05__15-32-00_\\Testrun____2013-08-05__15-32-00_.html;C\:\\Program Files (x86)\\EXAM\\userData\\reports\\Testrun____2013-08-05__15-28-50_\\Testrun____2013-08-05__15-28-50_.html;C\:\\Program Files (x86)\\EXAM\\userData\\reports\\Testrun____2013-08-05__15-02-08_\\Testrun____2013-08-05__15-02-08_.html
 file_export_version=3.0
 /instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.editor.tab.width=
 /instance/org.eclipse.help.ui/browser.h=768
-/instance/de.exam.common.wizards/ExportPreferencesWizardPage.lastLocation=C\:\\Users\\EXAM\\Desktop\\examBackUp\\preferences.epf
+/instance/de.exam.common.wizards/ExportPreferencesWizardPage.lastLocation=C\:\\Users\\EXAM\\Desktop\\EXAM080213\\preferencs.epf
 /instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Courier New|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Courier New;
 /instance/org.eclipse.ui/SHOW_TRADITIONAL_STYLE_TABS=false
 @org.eclipse.help.base=3.4.0.v201002111343
@@ -39,7 +39,7 @@ file_export_version=3.0
 /instance/org.eclipse.ui.views.log/groupBy=0
 @org.python.pydev=1.3.15
 @de.exam.common=3.1.5.201209281912
-/instance/org.eclipse.help.base/workingSet=All topics
+/instance/org.eclipse.help.base/workingSet=
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
 /instance/org.eclipse.jdt.ui/content_assist_proposals_foreground=0,0,0
 /instance/de.exam.common.update/UpdateSiteUrlProtocol=http
@@ -54,11 +54,13 @@ file_export_version=3.0
 /instance/org.eclipse.ui.views.log/column3=150
 /instance/org.eclipse.ui.views.log/column2=405
 /instance/de.exam.testrunner/PythonExePath=C\:\\Program Files (x86)\\Python2.5\\Python.exe
+@org.eclipse.search=3.5.1.r351_v20090708-0800
 /instance/de.exam.testrunner/DatabaseUsernamePreference=exam_rmdb
 /instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.javadoclocations.migrated=true
 /instance/org.eclipse.gef/org.eclipse.gef.pdock=8
 /instance/org.python.pydev/USE_PYDEV_BUILDERS=false
 /instance/org.python.pydev/INTERPRETER_PATH_NEW=Version2.2Executable\:Dummy - Please replace by valid python.exe@$|OpenGL|__builtin__|__main__|_codecs|_hotshot|_locale|_weakref|array|audioop|binascii|cPickle|cStringIO|cmath|errno|exceptions|gc|imageop|imp|marshal|math|md5|msvcrt|new|nt|operator|os|pcre|regex|rgbimg|rotor|sha|signal|strop|struct|sys|thread|time|wx|wxPython|xreadlines|xxsubtype&&&&&
+/instance/org.eclipse.search/org.eclipse.search.defaultPerspective=org.eclipse.search.defaultPerspective.none
 /instance/org.eclipse.jdt.ui/content_assist_proposals_background=255,255,255
 /instance/org.eclipse.jdt.ui/proposalOrderMigrated=true
 /instance/de.exam.reportmanager/LatestTestEditorTabPreference=SubTests

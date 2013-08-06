@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1374478421 source:c:\users\ar\desktop\codeblocks\tcpserverc\diread.c
+	<stdio.h>
+	<winsock.h>
+	"hudaqlib.h"
+	"server.h"
+
+1372934202 c:\users\ar\desktop\codeblocks\tcpserverc\hudaqlib.h
+
+1374486379 source:c:\users\ar\desktop\codeblocks\tcpserverc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock.h>
+	<string.h>
+	"commands.h"
+	"server.h"
+
+1374221406 c:\users\ar\desktop\codeblocks\tcpserverc\diread.c
+	<stdio.h>
+	"hudaqlib.h"
+
+1374478348 c:\users\ar\desktop\codeblocks\tcpserverc\diread.h
+
+1374486423 c:\users\ar\desktop\codeblocks\tcpserverc\server.h
+	<winsock.h>
+
+1374486412 source:c:\users\ar\desktop\codeblocks\tcpserverc\server.c
+	<stdio.h>
+	<winsock.h>
+
+1374478307 c:\users\ar\desktop\codeblocks\tcpserverc\commands.h
+
+1374350935 source:c:\users\ar\desktop\codeblocks\tcpserverc\commands.c
+	<stdio.h>
+	"AIRead.h"
+	"AOWrite.h"
+	"DIRead.h"
+	"DOWrite.h"
+	"commands.h"
+	"server.h"
+
+1374486303 source:c:\users\ar\desktop\codeblocks\tcpserverc\airead.c
+	<stdio.h>
+	<winsock.h>
+	"hudaqlib.h"
+	"server.h"
+
+1374478483 source:c:\users\ar\desktop\codeblocks\tcpserverc\aowrite.c
+	<stdio.h>
+	<winsock.h>
+	"hudaqlib.h"
+	"server.h"
+
+1374478401 source:c:\users\ar\desktop\codeblocks\tcpserverc\dowrite.c
+	<stdio.h>
+	<winsock.h>
+	"hudaqlib.h"
+	"server.h"
+
+1374478382 c:\users\ar\desktop\codeblocks\tcpserverc\airead.h
+	<winsock.h>
+
+1374478354 c:\users\ar\desktop\codeblocks\tcpserverc\aowrite.h
+
+1374478340 c:\users\ar\desktop\codeblocks\tcpserverc\dowrite.h
+
