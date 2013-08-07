@@ -60,3 +60,64 @@
 	<stdio.h>
 	<winsock.h>
 
+1375712819 source:c:\users\exam\desktop\git\tcpserverc\airead.c
+	<stdio.h>
+	<winsock.h>
+	"hudaqlib.h"
+	"server.h"
+
+1374671902 c:\users\exam\desktop\git\tcpserverc\hudaqlib.h
+
+1374486423 c:\users\exam\desktop\git\tcpserverc\server.h
+	<winsock.h>
+
+1375359475 source:c:\users\exam\desktop\git\tcpserverc\commands.c
+	<stdio.h>
+	"AIRead.h"
+	"AOWrite.h"
+	"DIRead.h"
+	"DOWrite.h"
+	"commands.h"
+	"server.h"
+
+1375713543 c:\users\exam\desktop\git\tcpserverc\airead.h
+	<winsock.h>
+
+1375713548 c:\users\exam\desktop\git\tcpserverc\aowrite.h
+
+1375713538 c:\users\exam\desktop\git\tcpserverc\diread.h
+
+1375713532 c:\users\exam\desktop\git\tcpserverc\dowrite.h
+
+1375714939 c:\users\exam\desktop\git\tcpserverc\commands.h
+
+1375712825 source:c:\users\exam\desktop\git\tcpserverc\diread.c
+	<stdio.h>
+	<winsock.h>
+	"hudaqlib.h"
+	"server.h"
+
+1375712829 source:c:\users\exam\desktop\git\tcpserverc\dowrite.c
+	<stdio.h>
+	<winsock.h>
+	"hudaqlib.h"
+	"server.h"
+
+1375713514 source:c:\users\exam\desktop\git\tcpserverc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock.h>
+	<string.h>
+	"commands.h"
+	"server.h"
+
+1375358954 source:c:\users\exam\desktop\git\tcpserverc\server.c
+	<stdio.h>
+	<winsock.h>
+
+1375792284 source:c:\users\exam\desktop\git\tcpserverc\aowrite.c
+	<stdio.h>
+	<winsock.h>
+	"hudaqlib.h"
+	"server.h"
+

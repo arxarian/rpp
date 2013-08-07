@@ -30,6 +30,8 @@ int aowrite(unsigned int par1, double par2, SOCKET sock) {
     HudaqAOWrite(h, par1, par2);
     printf("Analog output channel %d, value written %fV.\n", par1, par2);
     //}
+    sprintf(msg, "aowrite%d=%f\r\n", par1, par2/*, '\r\n'*/);
+    sendMsg(sock, msg);
 
     /* close the device handle */
     HudaqCloseDevice(h);
