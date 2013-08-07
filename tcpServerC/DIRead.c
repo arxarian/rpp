@@ -21,12 +21,11 @@ int diread(unsigned int par1, double par2, SOCKET sock) {
 
     /* read bit */
     value = HudaqDIReadBit(h, 0, par1);
-    sprintf(msg, "diread%d=%d%\r\n", par1, value/*, '\r\n'*/);
-    //msg[strlen(msg)] = '\n';
+    sprintf(msg, "diread%d=%d%\r\n", par1, value);
     sendMsg(sock, msg);
     printf("\nValue read from digital bit %d: %d ", par1, value);
 
-//    /* close the device handle */
+    /* close the device handle */
     HudaqCloseDevice(h);
 
     return 0;

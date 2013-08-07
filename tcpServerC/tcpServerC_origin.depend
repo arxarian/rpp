@@ -91,7 +91,7 @@
 
 1375714939 c:\users\exam\desktop\git\tcpserverc\commands.h
 
-1375712825 source:c:\users\exam\desktop\git\tcpserverc\diread.c
+1375886834 source:c:\users\exam\desktop\git\tcpserverc\diread.c
 	<stdio.h>
 	<winsock.h>
 	"hudaqlib.h"
@@ -103,7 +103,7 @@
 	"hudaqlib.h"
 	"server.h"
 
-1375713514 source:c:\users\exam\desktop\git\tcpserverc\main.c
+1375865814 source:c:\users\exam\desktop\git\tcpserverc\main.c
 	<stdio.h>
 	<stdlib.h>
 	<winsock.h>
@@ -115,7 +115,7 @@
 	<stdio.h>
 	<winsock.h>
 
-1375792284 source:c:\users\exam\desktop\git\tcpserverc\aowrite.c
+1375793114 source:c:\users\exam\desktop\git\tcpserverc\aowrite.c
 	<stdio.h>
 	<winsock.h>
 	"hudaqlib.h"

@@ -28,7 +28,7 @@ int aowrite(unsigned int par1, double par2, SOCKET sock) {
     //value = i-5.0;
     //HudaqAOWrite(h, i, value);
     HudaqAOWrite(h, par1, par2);
-    printf("Analog output channel %d, value written %fV.\n", par1, par2);
+    printf("Analog output channel %d, value written %f V.\n", par1, par2);
     //}
     sprintf(msg, "aowrite%d=%f\r\n", par1, par2/*, '\r\n'*/);
     sendMsg(sock, msg);
