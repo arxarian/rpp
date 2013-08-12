@@ -1,0 +1,494 @@
+<?xml version='1.0' encoding='utf-8'?><tree id = "0"><item text="Root" id="11" im0="0" im1="0" im2="0" open="1"><item text="_1_core" id="1003" im0="0" im1="0" im2="0" ><item text="basicOperations" id="1004" im0="0" im1="0" im2="0" ><item text="Calculation" id="33142" im0="10" im1="10" im2="10" ><item text="calculateAbsolute" id="34864" im0="12" im1="12" im2="12" ><item text="aOperand" id="41592" im0="5" im1="5" im2="5" /><item text="aResult" id="41398" im0="13" im1="13" im2="13" /></item>
+<item text="calculateAddition" id="33804" im0="12" im1="12" im2="12" ><item text="aOperand1" id="37342" im0="5" im1="5" im2="5" /><item text="aOperand2" id="41030" im0="5" im1="5" im2="5" /><item text="aResult" id="38086" im0="13" im1="13" im2="13" /></item>
+<item text="calculateAnd" id="33700" im0="12" im1="12" im2="12" ><item text="aOperand1" id="37210" im0="5" im1="5" im2="5" /><item text="aOperand2" id="37050" im0="5" im1="5" im2="5" /><item text="aResult" id="42150" im0="13" im1="13" im2="13" /></item>
+<item text="calculateAndByBit" id="35836" im0="12" im1="12" im2="12" ><item text="iOperand1" id="39006" im0="5" im1="5" im2="5" /><item text="iOperand2" id="37026" im0="5" im1="5" im2="5" /><item text="iResult" id="36946" im0="13" im1="13" im2="13" /></item>
+<item text="calculateDivision" id="35248" im0="12" im1="12" im2="12" ><item text="aOperand1" id="36340" im0="5" im1="5" im2="5" /><item text="aOperand2" id="41174" im0="5" im1="5" im2="5" /><item text="aResult" id="38452" im0="13" im1="13" im2="13" /></item>
+<item text="calculateEqual" id="33886" im0="12" im1="12" im2="12" ><item text="aOperand1" id="36992" im0="5" im1="5" im2="5" /><item text="aOperand2" id="37310" im0="5" im1="5" im2="5" /><item text="aOperand3" id="37816" im0="5" im1="5" im2="5" /><item text="aOperand4" id="40528" im0="5" im1="5" im2="5" /><item text="aOperand5" id="37788" im0="5" im1="5" im2="5" /><item text="aOperand6" id="39060" im0="5" im1="5" im2="5" /><item text="aOperand7" id="40602" im0="5" im1="5" im2="5" /><item text="aOperand8" id="39456" im0="5" im1="5" im2="5" /><item text="aOperand9" id="36704" im0="5" im1="5" im2="5" /><item text="aOperand10" id="41138" im0="5" im1="5" im2="5" /><item text="iResult" id="39080" im0="13" im1="13" im2="13" /></item>
+<item text="calculateEqualFloat" id="34766" im0="12" im1="12" im2="12" ><item text="fOperand1" id="38296" im0="5" im1="5" im2="5" /><item text="fOperand2" id="38618" im0="5" im1="5" im2="5" /><item text="iResult" id="37910" im0="13" im1="13" im2="13" /><item text="fTolerance" id="42038" im0="5" im1="5" im2="5" /></item>
+<item text="calculateEqualMultipleFloat" id="35486" im0="12" im1="12" im2="12" ><item text="fOperand1" id="37932" im0="5" im1="5" im2="5" /><item text="fOperand2" id="41996" im0="5" im1="5" im2="5" /><item text="fOperand3" id="42124" im0="5" im1="5" im2="5" /><item text="fOperand4" id="38994" im0="5" im1="5" im2="5" /><item text="fOperand5" id="41758" im0="5" im1="5" im2="5" /><item text="fOperand6" id="38370" im0="5" im1="5" im2="5" /><item text="fOperand7" id="41614" im0="5" im1="5" im2="5" /><item text="fOperand8" id="37776" im0="5" im1="5" im2="5" /><item text="fOperand9" id="37504" im0="5" im1="5" im2="5" /><item text="fOperand10" id="41538" im0="5" im1="5" im2="5" /><item text="fTolerance" id="38894" im0="5" im1="5" im2="5" /><item text="iResult" id="40734" im0="13" im1="13" im2="13" /></item>
+<item text="calculateGreater" id="34216" im0="12" im1="12" im2="12" ><item text="aOperand1" id="38246" im0="5" im1="5" im2="5" /><item text="aOperand2" id="39536" im0="5" im1="5" im2="5" /><item text="iResult" id="39778" im0="13" im1="13" im2="13" /></item>
+<item text="calculateGreaterOrEqual" id="34258" im0="12" im1="12" im2="12" ><item text="aOperand1" id="40598" im0="5" im1="5" im2="5" /><item text="aOperand2" id="37604" im0="5" im1="5" im2="5" /><item text="iResult" id="38620" im0="13" im1="13" im2="13" /></item>
+<item text="calculateLeftShiftByBit" id="33626" im0="12" im1="12" im2="12" ><item text="iOperand" id="41466" im0="5" im1="5" im2="5" /><item text="iShift" id="37486" im0="5" im1="5" im2="5" /><item text="iResult" id="39468" im0="13" im1="13" im2="13" /></item>
+<item text="calculateLess" id="34654" im0="12" im1="12" im2="12" ><item text="aOperand1" id="39058" im0="5" im1="5" im2="5" /><item text="aOperand2" id="36786" im0="5" im1="5" im2="5" /><item text="iResult" id="41660" im0="13" im1="13" im2="13" /></item>
+<item text="calculateLessOrEqual" id="35928" im0="12" im1="12" im2="12" ><item text="aOperand1" id="39090" im0="5" im1="5" im2="5" /><item text="aOperand2" id="41450" im0="5" im1="5" im2="5" /><item text="iResult" id="41272" im0="13" im1="13" im2="13" /></item>
+<item text="calculateLinearInterpolation" id="35330" im0="12" im1="12" im2="12" ><item text="fOperandX1" id="36342" im0="5" im1="5" im2="5" /><item text="fOperandX2" id="39460" im0="5" im1="5" im2="5" /><item text="fOperandX3" id="39348" im0="5" im1="5" im2="5" /><item text="fOperandY1" id="42026" im0="5" im1="5" im2="5" /><item text="fOperandY2" id="36972" im0="5" im1="5" im2="5" /><item text="fResult" id="40724" im0="13" im1="13" im2="13" /></item>
+<item text="calculateMedianFromList" id="34222" im0="12" im1="12" im2="12" ><item text="lList" id="37188" im0="5" im1="5" im2="5" /><item text="fResult" id="37732" im0="13" im1="13" im2="13" /></item>
+<item text="calculateMedian" id="34452" im0="12" im1="12" im2="12" ><item text="fOperand1" id="39912" im0="5" im1="5" im2="5" /><item text="fOperand2" id="40986" im0="5" im1="5" im2="5" /><item text="fResult" id="38818" im0="13" im1="13" im2="13" /></item>
+<item text="calculateModulo" id="35438" im0="12" im1="12" im2="12" ><item text="aOperand1" id="40162" im0="5" im1="5" im2="5" /><item text="aOperand2" id="36842" im0="5" im1="5" im2="5" /><item text="aResult" id="37214" im0="13" im1="13" im2="13" /></item>
+<item text="calculateMultiplication" id="35142" im0="12" im1="12" im2="12" ><item text="aOperand1" id="36672" im0="5" im1="5" im2="5" /><item text="aOperand2" id="36848" im0="5" im1="5" im2="5" /><item text="aResult" id="39940" im0="13" im1="13" im2="13" /></item>
+<item text="calculateNot" id="36154" im0="12" im1="12" im2="12" ><item text="aOperand" id="37272" im0="5" im1="5" im2="5" /><item text="iResult" id="38388" im0="13" im1="13" im2="13" /></item>
+<item text="calculateNotByBit" id="34344" im0="12" im1="12" im2="12" ><item text="iOperand" id="39998" im0="5" im1="5" im2="5" /><item text="iResult" id="39472" im0="13" im1="13" im2="13" /></item>
+<item text="calculateOr" id="34160" im0="12" im1="12" im2="12" ><item text="aOperand1" id="36208" im0="5" im1="5" im2="5" /><item text="aOperand2" id="37268" im0="5" im1="5" im2="5" /><item text="aResult" id="39276" im0="13" im1="13" im2="13" /></item>
+<item text="calculateOrByBit" id="34840" im0="12" im1="12" im2="12" ><item text="iOperand1" id="37968" im0="5" im1="5" im2="5" /><item text="iOperand2" id="36500" im0="5" im1="5" im2="5" /><item text="iResult" id="38564" im0="13" im1="13" im2="13" /></item>
+<item text="calculatePercent" id="35146" im0="12" im1="12" im2="12" ><item text="fBasic" id="38508" im0="5" im1="5" im2="5" /><item text="fPercentage" id="40962" im0="5" im1="5" im2="5" /><item text="fResult" id="37068" im0="13" im1="13" im2="13" /></item>
+<item text="calculateRandomFromList" id="33916" im0="12" im1="12" im2="12" ><item text="lList" id="36840" im0="5" im1="5" im2="5" /><item text="aResult" id="38256" im0="13" im1="13" im2="13" /></item>
+<item text="calculateRandomFromRange" id="34822" im0="12" im1="12" im2="12" ><item text="aLowerLimit" id="39142" im0="5" im1="5" im2="5" /><item text="aUpperLimit" id="39290" im0="5" im1="5" im2="5" /><item text="aStep" id="37782" im0="5" im1="5" im2="5" /><item text="aResult" id="40072" im0="13" im1="13" im2="13" /></item>
+<item text="calculateRightShiftByBit" id="33658" im0="12" im1="12" im2="12" ><item text="iOperand" id="39864" im0="5" im1="5" im2="5" /><item text="iShift" id="38956" im0="5" im1="5" im2="5" /><item text="iResult" id="36822" im0="13" im1="13" im2="13" /></item>
+<item text="calculateRounding" id="34702" im0="12" im1="12" im2="12" ><item text="fOperand" id="39402" im0="16" im1="16" im2="16" /><item text="iResult" id="40534" im0="5" im1="5" im2="5" /></item>
+<item text="calculateSubstraction" id="35034" im0="12" im1="12" im2="12" ><item text="aOperand1" id="39790" im0="5" im1="5" im2="5" /><item text="aOperand2" id="40566" im0="5" im1="5" im2="5" /><item text="aResult" id="36252" im0="13" im1="13" im2="13" /></item>
+<item text="calculateUnEqual" id="34724" im0="12" im1="12" im2="12" ><item text="aOperand1" id="36310" im0="5" im1="5" im2="5" /><item text="aOperand2" id="36536" im0="5" im1="5" im2="5" /><item text="aOperand3" id="37812" im0="5" im1="5" im2="5" /><item text="aOperand4" id="39018" im0="5" im1="5" im2="5" /><item text="aOperand5" id="36512" im0="5" im1="5" im2="5" /><item text="aOperand6" id="36782" im0="5" im1="5" im2="5" /><item text="aOperand7" id="36910" im0="5" im1="5" im2="5" /><item text="aOperand8" id="38196" im0="5" im1="5" im2="5" /><item text="aOperand9" id="40504" im0="5" im1="5" im2="5" /><item text="aOperand10" id="36714" im0="5" im1="5" im2="5" /><item text="iResult" id="37316" im0="13" im1="13" im2="13" /></item>
+<item text="calculateUnEqualFloat" id="35688" im0="12" im1="12" im2="12" ><item text="fOperand1" id="37986" im0="5" im1="5" im2="5" /><item text="fOperand2" id="38352" im0="5" im1="5" im2="5" /><item text="iResult" id="40116" im0="13" im1="13" im2="13" /><item text="fTolerance" id="40286" im0="5" im1="5" im2="5" /></item>
+<item text="calculateXOrByBit" id="35198" im0="12" im1="12" im2="12" ><item text="iOperand1" id="38786" im0="5" im1="5" im2="5" /><item text="iOperand2" id="40276" im0="5" im1="5" im2="5" /><item text="iResult" id="39666" im0="13" im1="13" im2="13" /></item>
+<item text="decrement" id="35570" im0="12" im1="12" im2="12" ><item text="iOperand" id="37446" im0="16" im1="16" im2="16" /></item>
+<item text="getSign" id="34340" im0="12" im1="12" im2="12" ><item text="aOperand" id="37156" im0="5" im1="5" im2="5" /><item text="iResult" id="40892" im0="13" im1="13" im2="13" /></item>
+<item text="increment" id="34892" im0="12" im1="12" im2="12" ><item text="iOperand" id="37510" im0="16" im1="16" im2="16" /></item>
+</item>
+<item text="Caller" id="1144" im0="10" im1="10" im2="10" /><item text="Handle" id="33174" im0="10" im1="10" im2="10" ><item text="addToStaticParametersDictionary" id="34932" im0="12" im1="12" im2="12" ><item text="aValue" id="38340" im0="5" im1="5" im2="5" /><item text="aKey" id="41014" im0="5" im1="5" im2="5" /></item>
+<item text="addToUserDictionary" id="35612" im0="12" im1="12" im2="12" ><item text="dDictionary" id="37018" im0="16" im1="16" im2="16" /><item text="aKey" id="40040" im0="5" im1="5" im2="5" /><item text="aValue" id="37894" im0="5" im1="5" im2="5" /></item>
+<item text="appendList" id="33500" im0="12" im1="12" im2="12" ><item text="lList" id="39982" im0="16" im1="16" im2="16" /><item text="aElement" id="38100" im0="5" im1="5" im2="5" /></item>
+<item text="checkStaticParametersDictionaryHasKey" id="34788" im0="12" im1="12" im2="12" ><item text="aKey" id="40280" im0="5" im1="5" im2="5" /><item text="iResult" id="42146" im0="13" im1="13" im2="13" /></item>
+<item text="checkSystemDictionaryHasKey" id="35158" im0="12" im1="12" im2="12" ><item text="aKey" id="38720" im0="5" im1="5" im2="5" /><item text="iResult" id="38908" im0="13" im1="13" im2="13" /></item>
+<item text="checkUserDictionaryHasKey" id="33986" im0="12" im1="12" im2="12" ><item text="dDictionary" id="39532" im0="5" im1="5" im2="5" /><item text="aKey" id="38048" im0="5" im1="5" im2="5" /><item text="iResult" id="40494" im0="13" im1="13" im2="13" /></item>
+<item text="concatenateLists" id="34496" im0="12" im1="12" im2="12" ><item text="lList" id="36424" im0="16" im1="16" im2="16" /><item text="lExtendList" id="41980" im0="5" im1="5" im2="5" /></item>
+<item text="defineVariable" id="36086" im0="12" im1="12" im2="12" ><item text="aVariable" id="37706" im0="13" im1="13" im2="13" /><item text="aValue" id="40330" im0="5" im1="5" im2="5" /></item>
+<item text="deleteStaticParametersDictionaryKey" id="33894" im0="12" im1="12" im2="12" ><item text="aKey" id="42178" im0="5" im1="5" im2="5" /></item>
+<item text="deleteUserDictionaryKey" id="35014" im0="12" im1="12" im2="12" ><item text="dDictionary" id="36578" im0="16" im1="16" im2="16" /><item text="aKey" id="40992" im0="5" im1="5" im2="5" /></item>
+<item text="getKeysOfUserDictionary" id="33542" im0="12" im1="12" im2="12" ><item text="dDictionary" id="37384" im0="5" im1="5" im2="5" /><item text="lKeys" id="36688" im0="13" im1="13" im2="13" /></item>
+<item text="getLength" id="34266" im0="12" im1="12" im2="12" ><item text="aSource" id="38476" im0="5" im1="5" im2="5" /><item text="iResult" id="38242" im0="13" im1="13" im2="13" /></item>
+<item text="getListElement" id="35162" im0="12" im1="12" im2="12" ><item text="iIndex" id="40552" im0="5" im1="5" im2="5" /><item text="lList" id="37464" im0="5" im1="5" im2="5" /><item text="aResult" id="37560" im0="13" im1="13" im2="13" /></item>
+<item text="getListIndex" id="34048" im0="12" im1="12" im2="12" ><item text="lList" id="36234" im0="5" im1="5" im2="5" /><item text="aSearchValue" id="36410" im0="5" im1="5" im2="5" /><item text="iIndex" id="40152" im0="13" im1="13" im2="13" /></item>
+<item text="getMaxListElement" id="35522" im0="12" im1="12" im2="12" ><item text="lList" id="41470" im0="5" im1="5" im2="5" /><item text="aResult" id="37648" im0="13" im1="13" im2="13" /></item>
+<item text="getMinListElement" id="35818" im0="12" im1="12" im2="12" ><item text="lList" id="41440" im0="5" im1="5" im2="5" /><item text="aResult" id="39806" im0="13" im1="13" im2="13" /></item>
+<item text="getStaticParameters" id="33918" im0="12" im1="12" im2="12" ><item text="aKey" id="41420" im0="5" im1="5" im2="5" /><item text="aDefaultValue" id="36384" im0="5" im1="5" im2="5" /><item text="aResult" id="40538" im0="13" im1="13" im2="13" /></item>
+<item text="getSystemParameters" id="33634" im0="12" im1="12" im2="12" ><item text="aKey" id="41238" im0="5" im1="5" im2="5" /><item text="aDefaultValue" id="39458" im0="5" im1="5" im2="5" /><item text="aResult" id="42032" im0="13" im1="13" im2="13" /></item>
+<item text="getTupleElement" id="34996" im0="12" im1="12" im2="12" ><item text="iIndex" id="39928" im0="5" im1="5" im2="5" /><item text="tTuple" id="38518" im0="5" im1="5" im2="5" /><item text="aResult" id="39802" im0="13" im1="13" im2="13" /></item>
+<item text="getUserDictionaryKey" id="33646" im0="12" im1="12" im2="12" ><item text="dDictionary" id="40880" im0="5" im1="5" im2="5" /><item text="aKey" id="39724" im0="5" im1="5" im2="5" /><item text="aDefaultValue" id="40614" im0="5" im1="5" im2="5" /><item text="aTarget" id="37356" im0="13" im1="13" im2="13" /></item>
+<item text="noOperation" id="35490" im0="12" im1="12" im2="12" /><item text="removeFirstListElement" id="34632" im0="12" im1="12" im2="12" ><item text="lList" id="38630" im0="16" im1="16" im2="16" /><item text="aResult" id="40630" im0="13" im1="13" im2="13" /></item>
+<item text="removeLastListElement" id="34668" im0="12" im1="12" im2="12" ><item text="lList" id="36466" im0="16" im1="16" im2="16" /><item text="aResult" id="36636" im0="13" im1="13" im2="13" /></item>
+<item text="removeListElement" id="34818" im0="12" im1="12" im2="12" ><item text="aSearchValue" id="40984" im0="5" im1="5" im2="5" /><item text="lList" id="40448" im0="16" im1="16" im2="16" /><item text="iIndex" id="41856" im0="13" im1="13" im2="13" /></item>
+<item text="removeListIndex" id="33556" im0="12" im1="12" im2="12" ><item text="lList" id="39418" im0="16" im1="16" im2="16" /><item text="iIndex" id="41026" im0="5" im1="5" im2="5" /></item>
+<item text="removeRedundantListElements" id="34180" im0="12" im1="12" im2="12" ><item text="lList" id="40418" im0="5" im1="5" im2="5" /><item text="lResult" id="41288" im0="13" im1="13" im2="13" /></item>
+<item text="setListElement" id="35412" im0="12" im1="12" im2="12" ><item text="iIndex" id="37328" im0="5" im1="5" im2="5" /><item text="lList" id="41502" im0="16" im1="16" im2="16" /><item text="aInsertValue" id="38520" im0="5" im1="5" im2="5" /></item>
+<item text="sortList" id="34430" im0="12" im1="12" im2="12" ><item text="lList" id="36284" im0="16" im1="16" im2="16" /><item text="sDirection" id="36422" im0="5" im1="5" im2="5" /></item>
+<item text="sortListDown" id="34706" im0="12" im1="12" im2="12" ><item text="lList" id="36856" im0="16" im1="16" im2="16" /></item>
+<item text="getAllParameters" id="33516" im0="12" im1="12" im2="12" ><item text="dAllParameters" id="38874" im0="13" im1="13" im2="13" /></item>
+</item>
+</item>
+<item text="devices" id="32900" im0="0" im1="0" im2="0" ><item text="platform" id="32902" im0="0" im1="0" im2="0" ><item text="details" id="32862" im0="0" im1="0" im2="0" ><item text="core" id="32858" im0="0" im1="0" im2="0" ><item text="BasicPlatform" id="33260" im0="10" im1="10" im2="10" ><item text="writeValue" id="35090" im0="12" im1="12" im2="12" ><item text="sVariable" id="37544" im0="5" im1="5" im2="5" /><item text="aValue" id="40776" im0="5" im1="5" im2="5" /><item text="sPlatform" id="42190" im0="5" im1="5" im2="5" /></item>
+<item text="readValue" id="34218" im0="12" im1="12" im2="12" ><item text="sVariable" id="37796" im0="5" im1="5" im2="5" /><item text="aValue" id="38224" im0="13" im1="13" im2="13" /><item text="sPlatform" id="40042" im0="5" im1="5" im2="5" /></item>
+<item text="setEvent" id="35048" im0="12" im1="12" im2="12" ><item text="sEvent" id="38974" im0="5" im1="5" im2="5" /><item text="aValue" id="39676" im0="5" im1="5" im2="5" /><item text="sPlatform" id="37184" im0="5" im1="5" im2="5" /></item>
+<item text="getMeasurementData" id="33710" im0="12" im1="12" im2="12" ><item text="dMeasure" id="41644" im0="5" im1="5" im2="5" /><item text="sChannel" id="38656" im0="5" im1="5" im2="5" /><item text="iPosition" id="37728" im0="5" im1="5" im2="5" /><item text="fResult" id="38046" im0="13" im1="13" im2="13" /></item>
+</item>
+</item>
+<item text="platform" id="32906" im0="0" im1="0" im2="0" ><item text="offline" id="32942" im0="0" im1="0" im2="0" ><item text="OfflinePlatform" id="33324" im0="10" im1="10" im2="10" ><item text="initPlatform" id="35066" im0="12" im1="12" im2="12" ><item text="dConfig" id="40348" im0="5" im1="5" im2="5" /></item>
+<item text="initMapping" id="34188" im0="12" im1="12" im2="12" ><item text="sVariableMapping" id="37596" im0="5" im1="5" im2="5" /><item text="initMapping" id="42364" im0="4" im1="4" im2="4" /></item>
+<item text="initEventMapping" id="34468" im0="12" im1="12" im2="12" ><item text="sEventMapping" id="38158" im0="5" im1="5" im2="5" /><item text="initEventMapping" id="42466" im0="4" im1="4" im2="4" /></item>
+<item text="writeValue" id="33596" im0="12" im1="12" im2="12" ><item text="sVariable" id="37852" im0="5" im1="5" im2="5" /><item text="aValue" id="40696" im0="5" im1="5" im2="5" /><item text="writeValue" id="42522" im0="4" im1="4" im2="4" /></item>
+<item text="readValue" id="34018" im0="12" im1="12" im2="12" ><item text="sVariable" id="36628" im0="5" im1="5" im2="5" /><item text="aValue" id="37872" im0="13" im1="13" im2="13" /><item text="readValue" id="42420" im0="4" im1="4" im2="4" /></item>
+<item text="setEvent" id="33810" im0="12" im1="12" im2="12" ><item text="sEvent" id="39830" im0="5" im1="5" im2="5" /><item text="aValue" id="39822" im0="5" im1="5" im2="5" /><item text="setEvent" id="42424" im0="4" im1="4" im2="4" /></item>
+<item text="startMeasurement" id="35842" im0="12" im1="12" im2="12" ><item text="sID" id="37116" im0="5" im1="5" im2="5" /><item text="fCaptureLength" id="39432" im0="5" im1="5" im2="5" /><item text="lList" id="36902" im0="5" im1="5" im2="5" /><item text="iDownsampling" id="38142" im0="5" im1="5" im2="5" /><item text="sTriggerVariable" id="41786" im0="5" im1="5" im2="5" /><item text="fTriggerLevel" id="42052" im0="5" im1="5" im2="5" /><item text="iTriggerSlope" id="36550" im0="5" im1="5" im2="5" /><item text="fTriggerDelay" id="40064" im0="5" im1="5" im2="5" /></item>
+<item text="stopMeasurement" id="35084" im0="12" im1="12" im2="12" ><item text="sID" id="39636" im0="5" im1="5" im2="5" /><item text="dMeasure" id="42214" im0="13" im1="13" im2="13" /><item text="fTimeOut" id="37052" im0="5" im1="5" im2="5" /></item>
+<item text="downloadApplication" id="33640" im0="12" im1="12" im2="12" ><item text="sModelFile" id="41920" im0="5" im1="5" im2="5" /></item>
+<item text="getMeasurementData" id="35176" im0="12" im1="12" im2="12" ><item text="dMeasure" id="39172" im0="5" im1="5" im2="5" /><item text="sChannel" id="39972" im0="5" im1="5" im2="5" /><item text="iPosition" id="39844" im0="5" im1="5" im2="5" /><item text="fResult" id="39066" im0="13" im1="13" im2="13" /></item>
+<item text="deinitPlatform" id="34366" im0="12" im1="12" im2="12" /><item text="defineCaptureValueFile" id="35100" im0="12" im1="12" im2="12" ><item text="sValueCsvFile" id="36218" im0="5" im1="5" im2="5" /></item>
+<item text="startStreamToDisk" id="33518" im0="12" im1="12" im2="12" ><item text="sID" id="39224" im0="5" im1="5" im2="5" /><item text="iDownsampling" id="41072" im0="5" im1="5" im2="5" /><item text="sDestinationFilePath" id="41606" im0="5" im1="5" im2="5" /><item text="sDestinationFileName" id="41228" im0="5" im1="5" im2="5" /><item text="lList" id="41512" im0="5" im1="5" im2="5" /></item>
+<item text="stopStreamToDisk" id="35930" im0="12" im1="12" im2="12" ><item text="sID" id="38362" im0="5" im1="5" im2="5" /></item>
+<item text="resetPlatform" id="35050" im0="12" im1="12" im2="12" /><item text="startOnlineCalibration" id="34590" im0="12" im1="12" im2="12" ><item text="dParameter" id="42108" im0="5" im1="5" im2="5" /></item>
+<item text="stopOnlineCalibration" id="33510" im0="12" im1="12" im2="12" ><item text="dParameter" id="41390" im0="5" im1="5" im2="5" /></item>
+</item>
+</item>
+</item>
+</item>
+<item text="mapping" id="32874" im0="0" im1="0" im2="0" ><item text="details" id="32962" im0="0" im1="0" im2="0" ><item text="core" id="32852" im0="0" im1="0" im2="0" ><item text="BasicMappingFunctions" id="33246" im0="10" im1="10" im2="10" ><item text="checkSystemConfiguration" id="35898" im0="12" im1="12" im2="12" /><item text="translateMapping" id="34394" im0="12" im1="12" im2="12" ><item text="sSignalName" id="36276" im0="5" im1="5" im2="5" /><item text="sSimulinkName" id="36998" im0="13" im1="13" im2="13" /></item>
+<item text="initMapping" id="34076" im0="12" im1="12" im2="12" ><item text="sVariableMapping" id="37630" im0="5" im1="5" im2="5" /><item text="sPlatform" id="41624" im0="5" im1="5" im2="5" /></item>
+<item text="initEventMapping" id="33984" im0="12" im1="12" im2="12" ><item text="sEventMapping" id="40432" im0="5" im1="5" im2="5" /><item text="sPlatform" id="40244" im0="5" im1="5" im2="5" /></item>
+<item text="getShortName" id="35458" im0="12" im1="12" im2="12" ><item text="sName" id="37256" im0="5" im1="5" im2="5" /><item text="sShortName" id="40754" im0="13" im1="13" im2="13" /></item>
+<item text="registerMappingInterfaces" id="34516" im0="12" im1="12" im2="12" ><item text="sInterface" id="38136" im0="5" im1="5" im2="5" /></item>
+<item text="stopManipulation" id="35122" im0="12" im1="12" im2="12" /><item text="calculateFrameNameFromSignalName" id="34942" im0="12" im1="12" im2="12" ><item text="sSignalName" id="40944" im0="5" im1="5" im2="5" /><item text="iLevel" id="39240" im0="5" im1="5" im2="5" /><item text="sFrameName" id="36798" im0="13" im1="13" im2="13" /></item>
+<item text="stopManipulationSignal" id="33614" im0="12" im1="12" im2="12" ><item text="sSignalName" id="38884" im0="5" im1="5" im2="5" /><item text="sBusType" id="40464" im0="5" im1="5" im2="5" /></item>
+<item text="stopManipulationMessage" id="33976" im0="12" im1="12" im2="12" ><item text="sMessageName" id="39236" im0="5" im1="5" im2="5" /><item text="sBusType" id="40798" im0="5" im1="5" im2="5" /></item>
+<item text="storePreManipulationData" id="34310" im0="12" im1="12" im2="12" ><item text="sSignalName" id="39764" im0="5" im1="5" im2="5" /><item text="aSignalValue" id="37552" im0="5" im1="5" im2="5" /><item text="sSwitchName" id="40970" im0="5" im1="5" im2="5" /><item text="aSwitchValue" id="37832" im0="5" im1="5" im2="5" /></item>
+<item text="setSignalValue" id="35978" im0="12" im1="12" im2="12" ><item text="sSignalName" id="37508" im0="5" im1="5" im2="5" /><item text="fValue" id="41850" im0="5" im1="5" im2="5" /></item>
+<item text="transformSignalName" id="35332" im0="12" im1="12" im2="12" ><item text="sSignalname" id="37164" im0="5" im1="5" im2="5" /><item text="sTransformedName" id="37794" im0="13" im1="13" im2="13" /></item>
+<item text="deinitMapping" id="33750" im0="12" im1="12" im2="12" ><item text="sPlatform" id="41846" im0="5" im1="5" im2="5" /></item>
+<item text="deinitEventMapping" id="35670" im0="12" im1="12" im2="12" ><item text="sPlatform" id="36644" im0="5" im1="5" im2="5" /></item>
+<item text="getUnit" id="33718" im0="12" im1="12" im2="12" ><item text="sShortName" id="40488" im0="5" im1="5" im2="5" /><item text="sUnit" id="38432" im0="13" im1="13" im2="13" /></item>
+<item text="getDescription" id="36132" im0="12" im1="12" im2="12" ><item text="sShortName" id="41914" im0="5" im1="5" im2="5" /><item text="sDescription" id="40570" im0="13" im1="13" im2="13" /></item>
+</item>
+</item>
+</item>
+<item text="CAN_TX" id="33088" im0="14" im1="14" im2="14" ><item text="checkSending" id="34856" im0="12" im1="12" im2="12" ><item text="sSignalName" id="40402" im0="5" im1="5" im2="5" /><item text="iResult" id="36302" im0="13" im1="13" im2="13" /></item>
+<item text="startSending" id="36158" im0="12" im1="12" im2="12" ><item text="sSignalName" id="39766" im0="5" im1="5" im2="5" /></item>
+<item text="stopSending" id="36138" im0="12" im1="12" im2="12" ><item text="sSignalName" id="39598" im0="5" im1="5" im2="5" /></item>
+<item text="stopDynamicSending" id="35574" im0="12" im1="12" im2="12" ><item text="sSignalName" id="36378" im0="5" im1="5" im2="5" /><item text="iCounter" id="41922" im0="5" im1="5" im2="5" /></item>
+<item text="startMessageCounter" id="35972" im0="12" im1="12" im2="12" ><item text="sSignalName" id="40524" im0="5" im1="5" im2="5" /></item>
+<item text="stopMessageCounter" id="34712" im0="12" im1="12" im2="12" ><item text="sSignalName" id="38838" im0="5" im1="5" im2="5" /></item>
+<item text="stopMessageCounterDynamic" id="35328" im0="12" im1="12" im2="12" ><item text="sSignalName" id="37484" im0="5" im1="5" im2="5" /><item text="aValue" id="37390" im0="5" im1="5" im2="5" /><item text="iCounter" id="40774" im0="5" im1="5" im2="5" /></item>
+<item text="plausibleChecksum" id="33866" im0="12" im1="12" im2="12" ><item text="sSignalName" id="41196" im0="5" im1="5" im2="5" /></item>
+<item text="unplausibleChecksum" id="34030" im0="12" im1="12" im2="12" ><item text="sSignalName" id="38064" im0="5" im1="5" im2="5" /></item>
+<item text="unplausibleChecksumDynamic" id="34004" im0="12" im1="12" im2="12" ><item text="sSignalName" id="41426" im0="5" im1="5" im2="5" /><item text="aValue" id="36430" im0="5" im1="5" im2="5" /><item text="iCounter" id="39304" im0="5" im1="5" im2="5" /></item>
+<item text="setErrorValue" id="35132" im0="12" im1="12" im2="12" ><item text="sSignalName" id="37024" im0="5" im1="5" im2="5" /></item>
+<item text="setSignalValue" id="35110" im0="12" im1="12" im2="12" ><item text="sSignalName" id="38746" im0="5" im1="5" im2="5" /><item text="fValue" id="39882" im0="5" im1="5" im2="5" /></item>
+<item text="setSignalValueDynamic" id="34670" im0="12" im1="12" im2="12" ><item text="sSignalName" id="40266" im0="5" im1="5" im2="5" /><item text="fValue" id="41068" im0="5" im1="5" im2="5" /><item text="iCounter" id="38954" im0="5" im1="5" im2="5" /></item>
+<item text="setDefaultValue" id="35376" im0="12" im1="12" im2="12" ><item text="sSignalName" id="41926" im0="5" im1="5" im2="5" /><item text="fValue" id="39056" im0="5" im1="5" im2="5" /><item text="fSwitchType" id="42136" im0="5" im1="5" im2="5" /></item>
+<item text="setDLCDynamic" id="36186" im0="12" im1="12" im2="12" ><item text="sSignalName" id="37540" im0="5" im1="5" im2="5" /><item text="aValue" id="39422" im0="5" im1="5" im2="5" /><item text="iCounter" id="39082" im0="5" im1="5" im2="5" /></item>
+<item text="setPreferences" id="35784" im0="12" im1="12" im2="12" /><item text="setValueFromModel" id="35922" im0="12" im1="12" im2="12" ><item text="sSignalName" id="39052" im0="5" im1="5" im2="5" /></item>
+<item text="stopManipulation" id="35374" im0="12" im1="12" im2="12" /><item text="stopManipulationSignal" id="33770" im0="12" im1="12" im2="12" ><item text="sSignalName" id="40368" im0="5" im1="5" im2="5" /></item>
+<item text="stopManipulationMessage" id="36052" im0="12" im1="12" im2="12" ><item text="sMessageName" id="40580" im0="5" im1="5" im2="5" /></item>
+<item text="setDLC" id="35188" im0="12" im1="12" im2="12" ><item text="sMessageName" id="40838" im0="5" im1="5" im2="5" /><item text="iLength" id="36872" im0="5" im1="5" im2="5" /></item>
+</item>
+<item text="FIU" id="33290" im0="14" im1="14" im2="14" ><item text="activateSW" id="34852" im0="12" im1="12" im2="12" /><item text="deactivateSW" id="35814" im0="12" im1="12" im2="12" /><item text="setOpenWire" id="34172" im0="12" im1="12" im2="12" ><item text="sECU_PIN_Name" id="37436" im0="5" im1="5" im2="5" /></item>
+<item text="setOpenWire_withRSIM" id="35282" im0="12" im1="12" im2="12" ><item text="sECU_PIN_Name" id="40932" im0="5" im1="5" im2="5" /><item text="fFIU_ResistanceValue" id="38804" im0="5" im1="5" im2="5" /></item>
+<item text="setShortToGND" id="33934" im0="12" im1="12" im2="12" ><item text="sECU_PIN_Name" id="40272" im0="5" im1="5" im2="5" /></item>
+<item text="setShortToGND_withLoad" id="35160" im0="12" im1="12" im2="12" ><item text="sECU_PIN_Name" id="36892" im0="5" im1="5" im2="5" /></item>
+<item text="setShortToGND_withRSIM" id="34106" im0="12" im1="12" im2="12" ><item text="sECU_PIN_Name" id="41528" im0="5" im1="5" im2="5" /><item text="fFIU_ResistanceValue" id="40138" im0="5" im1="5" im2="5" /></item>
+<item text="setShortBetweenPINs" id="33502" im0="12" im1="12" im2="12" ><item text="sECU_PIN1_Name" id="38234" im0="5" im1="5" im2="5" /><item text="sECU_PIN2_Name" id="37836" im0="5" im1="5" im2="5" /></item>
+<item text="setShortBetweenPINs_withLoad" id="33624" im0="12" im1="12" im2="12" ><item text="sECU_PIN1_Name" id="40996" im0="5" im1="5" im2="5" /><item text="sECU_PIN2_Name" id="37240" im0="5" im1="5" im2="5" /></item>
+<item text="setShortBetweenPINs_withRSIM" id="34156" im0="12" im1="12" im2="12" ><item text="sECU_PIN1_Name" id="41292" im0="5" im1="5" im2="5" /><item text="sECU_PIN2_Name" id="41762" im0="5" im1="5" im2="5" /><item text="fFIU_ResistanceValue" id="38514" im0="5" im1="5" im2="5" /></item>
+<item text="setShortToVBatt" id="35040" im0="12" im1="12" im2="12" ><item text="sECU_PIN_Name" id="41428" im0="5" im1="5" im2="5" /></item>
+<item text="setShortToVBatt_withLoad" id="34036" im0="12" im1="12" im2="12" ><item text="sECU_PIN_Name" id="40048" im0="5" im1="5" im2="5" /></item>
+<item text="setShortToVBatt_withRSIM" id="34994" im0="12" im1="12" im2="12" ><item text="sECU_PIN_Name" id="39214" im0="5" im1="5" im2="5" /><item text="fFIU_ResistanceValue" id="39382" im0="5" im1="5" im2="5" /></item>
+<item text="resetFault" id="33554" im0="12" im1="12" im2="12" ><item text="sECU_PIN_Name" id="37046" im0="5" im1="5" im2="5" /></item>
+<item text="setPreferences" id="33972" im0="12" im1="12" im2="12" /></item>
+<item text="FlexRay_TX" id="33154" im0="14" im1="14" im2="14" ><item text="setPreferences" id="36016" im0="12" im1="12" im2="12" /><item text="checkSending" id="34980" im0="12" im1="12" im2="12" ><item text="sSignalName" id="41566" im0="5" im1="5" im2="5" /><item text="iResult" id="40318" im0="13" im1="13" im2="13" /></item>
+<item text="startSending" id="35806" im0="12" im1="12" im2="12" ><item text="sSignalName" id="38396" im0="5" im1="5" im2="5" /></item>
+<item text="stopSending" id="34464" im0="12" im1="12" im2="12" ><item text="sSignalName" id="37612" im0="5" im1="5" im2="5" /></item>
+<item text="stopDynamicSending" id="35718" im0="12" im1="12" im2="12" ><item text="sSignalName" id="36930" im0="5" im1="5" im2="5" /><item text="iCounter" id="38794" im0="5" im1="5" im2="5" /></item>
+<item text="startPDUCounter" id="33754" im0="12" im1="12" im2="12" ><item text="sSignalName" id="37434" im0="5" im1="5" im2="5" /></item>
+<item text="stopPDUCounter" id="33820" im0="12" im1="12" im2="12" ><item text="sSignalName" id="37134" im0="5" im1="5" im2="5" /></item>
+<item text="stopPDUCounterDynamic" id="34168" im0="12" im1="12" im2="12" ><item text="sSignalName" id="41576" im0="5" im1="5" im2="5" /><item text="aValue" id="40800" im0="5" im1="5" im2="5" /><item text="iCounter" id="39794" im0="5" im1="5" im2="5" /></item>
+<item text="plausibleChecksum" id="36100" im0="12" im1="12" im2="12" ><item text="sSignalName" id="37278" im0="5" im1="5" im2="5" /></item>
+<item text="unplausibleChecksum" id="34534" im0="12" im1="12" im2="12" ><item text="sSignalName" id="40414" im0="5" im1="5" im2="5" /></item>
+<item text="unplausibleChecksumDynamic" id="35966" im0="12" im1="12" im2="12" ><item text="sSignalName" id="37650" im0="5" im1="5" im2="5" /><item text="aValue" id="41134" im0="5" im1="5" im2="5" /><item text="iCounter" id="36540" im0="5" im1="5" im2="5" /></item>
+<item text="setSignalValue" id="33854" im0="12" im1="12" im2="12" ><item text="sSignalName" id="36994" im0="5" im1="5" im2="5" /><item text="fValue" id="40670" im0="5" im1="5" im2="5" /></item>
+<item text="setSignalValueDynamic" id="34640" im0="12" im1="12" im2="12" ><item text="sSignalName" id="41434" im0="5" im1="5" im2="5" /><item text="fValue" id="38410" im0="5" im1="5" im2="5" /><item text="iCounter" id="42034" im0="5" im1="5" im2="5" /></item>
+<item text="setDefaultValue" id="34486" im0="12" im1="12" im2="12" ><item text="sSignalName" id="41952" im0="5" im1="5" im2="5" /><item text="fValue" id="40906" im0="5" im1="5" im2="5" /><item text="fSwitchType" id="39660" im0="5" im1="5" im2="5" /></item>
+<item text="setPLLDynamic" id="35394" im0="12" im1="12" im2="12" ><item text="sSignalName" id="38718" im0="5" im1="5" im2="5" /><item text="aValue" id="37762" im0="5" im1="5" im2="5" /><item text="iCounter" id="38500" im0="5" im1="5" im2="5" /></item>
+<item text="setValueFromModel" id="36048" im0="12" im1="12" im2="12" ><item text="sSignalName" id="41932" im0="5" im1="5" im2="5" /></item>
+<item text="stopManipulation" id="34618" im0="12" im1="12" im2="12" /><item text="stopManipulationSignal" id="34756" im0="12" im1="12" im2="12" ><item text="sSignalName" id="37616" im0="5" im1="5" im2="5" /></item>
+<item text="stopManipulationMessage" id="35190" im0="12" im1="12" im2="12" ><item text="sMessageName" id="37524" im0="5" im1="5" im2="5" /></item>
+</item>
+<item text="LIN_TX" id="33196" im0="14" im1="14" im2="14" ><item text="setPreferences" id="34244" im0="12" im1="12" im2="12" /><item text="stopManipulation" id="34644" im0="12" im1="12" im2="12" /><item text="setSignalValue" id="35706" im0="12" im1="12" im2="12" ><item text="sSignalName" id="39926" im0="5" im1="5" im2="5" /><item text="fValue" id="41626" im0="5" im1="5" im2="5" /></item>
+<item text="setDefaultValue" id="33852" im0="12" im1="12" im2="12" ><item text="sSignalName" id="36196" im0="5" im1="5" im2="5" /><item text="fValue" id="38854" im0="5" im1="5" im2="5" /><item text="fSwitchType" id="40518" im0="5" im1="5" im2="5" /></item>
+<item text="setValueFromModel" id="34272" im0="12" im1="12" im2="12" ><item text="sSignalName" id="36650" im0="5" im1="5" im2="5" /></item>
+<item text="stopManipulationSignal" id="35488" im0="12" im1="12" im2="12" ><item text="sSignalName" id="38592" im0="5" im1="5" im2="5" /></item>
+<item text="stopManipulationMessage" id="35168" im0="12" im1="12" im2="12" ><item text="sMessageName" id="38494" im0="5" im1="5" im2="5" /></item>
+<item text="startSending" id="36022" im0="12" im1="12" im2="12" ><item text="sSignalName" id="38898" im0="5" im1="5" im2="5" /></item>
+<item text="stopSending" id="33900" im0="12" im1="12" im2="12" ><item text="sSignalName" id="39038" im0="5" im1="5" im2="5" /></item>
+</item>
+<item text="NoLeanmapping" id="33140" im0="14" im1="14" im2="14" ><item text="setPreferences" id="35204" im0="12" im1="12" im2="12" /></item>
+</item>
+<item text="Platform" id="33344" im0="14" im1="14" im2="14" ><item text="initPlatform" id="35152" im0="12" im1="12" im2="12" ><item text="dConfig" id="37218" im0="5" im1="5" im2="5" /></item>
+<item text="initMapping" id="33956" im0="12" im1="12" im2="12" ><item text="sVariableMapping" id="39130" im0="5" im1="5" im2="5" /></item>
+<item text="initEventMapping" id="33606" im0="12" im1="12" im2="12" ><item text="sEventMapping" id="41876" im0="5" im1="5" im2="5" /></item>
+<item text="writeValue" id="34580" im0="12" im1="12" im2="12" ><item text="sVariable" id="41808" im0="5" im1="5" im2="5" /><item text="aValue" id="37388" im0="5" im1="5" im2="5" /></item>
+<item text="readValue" id="35354" im0="12" im1="12" im2="12" ><item text="sVariable" id="37682" im0="5" im1="5" im2="5" /><item text="aValue" id="36600" im0="13" im1="13" im2="13" /></item>
+<item text="setEvent" id="34116" im0="12" im1="12" im2="12" ><item text="sEvent" id="40872" im0="5" im1="5" im2="5" /><item text="aValue" id="37890" im0="5" im1="5" im2="5" /></item>
+<item text="startMeasurement" id="34326" im0="12" im1="12" im2="12" ><item text="sID" id="37756" im0="5" im1="5" im2="5" /><item text="fCaptureLength" id="39744" im0="5" im1="5" im2="5" /><item text="lList" id="41568" im0="5" im1="5" im2="5" /><item text="iDownsampling" id="41964" im0="5" im1="5" im2="5" /><item text="sTriggerVariable" id="36884" im0="5" im1="5" im2="5" /><item text="fTriggerLevel" id="39354" im0="5" im1="5" im2="5" /><item text="iTriggerSlope" id="40574" im0="5" im1="5" im2="5" /><item text="fTriggerDelay" id="42166" im0="5" im1="5" im2="5" /></item>
+<item text="stopMeasurement" id="35932" im0="12" im1="12" im2="12" ><item text="sID" id="41752" im0="5" im1="5" im2="5" /><item text="dMeasure" id="42180" im0="13" im1="13" im2="13" /><item text="fTimeOut" id="41136" im0="5" im1="5" im2="5" /></item>
+<item text="downloadApplication" id="36116" im0="12" im1="12" im2="12" ><item text="sModelFile" id="42036" im0="5" im1="5" im2="5" /></item>
+<item text="getMeasurementData" id="35454" im0="12" im1="12" im2="12" ><item text="dMeasure" id="38750" im0="5" im1="5" im2="5" /><item text="sChannel" id="41116" im0="5" im1="5" im2="5" /><item text="iPosition" id="38344" im0="5" im1="5" im2="5" /><item text="fResult" id="40200" im0="13" im1="13" im2="13" /></item>
+<item text="deinitPlatform" id="34252" im0="12" im1="12" im2="12" /><item text="defineCaptureValueFile" id="33920" im0="12" im1="12" im2="12" ><item text="sValueCsvFile" id="36456" im0="5" im1="5" im2="5" /></item>
+<item text="startStreamToDisk" id="34232" im0="12" im1="12" im2="12" ><item text="sID" id="38346" im0="5" im1="5" im2="5" /><item text="iDownsampling" id="38470" im0="5" im1="5" im2="5" /><item text="sDestinationFilePath" id="41878" im0="5" im1="5" im2="5" /><item text="sDestinationFileName" id="41384" im0="5" im1="5" im2="5" /><item text="lList" id="39104" im0="5" im1="5" im2="5" /></item>
+<item text="stopStreamToDisk" id="33656" im0="12" im1="12" im2="12" ><item text="sID" id="38582" im0="5" im1="5" im2="5" /></item>
+<item text="resetPlatform" id="34000" im0="12" im1="12" im2="12" /><item text="startOnlineCalibration" id="35528" im0="12" im1="12" im2="12" ><item text="dParameter" id="36806" im0="5" im1="5" im2="5" /></item>
+<item text="stopOnlineCalibration" id="33732" im0="12" im1="12" im2="12" ><item text="dParameter" id="39638" im0="5" im1="5" im2="5" /></item>
+</item>
+</item>
+</item>
+<item text="operatingSystem" id="32946" im0="0" im1="0" im2="0" ><item text="details" id="32916" im0="0" im1="0" im2="0" ><item text="OperatingSystem" id="33106" im0="10" im1="10" im2="10" ><item text="wait" id="35816" im0="12" im1="12" im2="12" ><item text="iSleepTime" id="41486" im0="5" im1="5" im2="5" /></item>
+<item text="setBreakPoint" id="35964" im0="12" im1="12" im2="12" ><item text="sMsgText" id="36784" im0="5" im1="5" im2="5" /></item>
+<item text="displayUserInputDialog" id="34408" im0="12" im1="12" im2="12" ><item text="sDialogText" id="38880" im0="5" im1="5" im2="5" /><item text="sDialogTitle" id="38326" im0="5" im1="5" im2="5" /><item text="sUserInput" id="36820" im0="13" im1="13" im2="13" /></item>
+<item text="displayQuestionDialog" id="35536" im0="12" im1="12" im2="12" ><item text="sQuestionText" id="40136" im0="5" im1="5" im2="5" /><item text="sDialogTitle" id="37526" im0="5" im1="5" im2="5" /><item text="iResult" id="37610" im0="13" im1="13" im2="13" /></item>
+<item text="displayFileOpenDialog" id="35250" im0="12" im1="12" im2="12" ><item text="sDialogTitle" id="36534" im0="5" im1="5" im2="5" /><item text="sResult" id="40356" im0="13" im1="13" im2="13" /></item>
+<item text="displaySelectDialog" id="35402" im0="12" im1="12" im2="12" ><item text="lListItems" id="39880" im0="5" im1="5" im2="5" /><item text="sDialogTitle" id="41188" im0="5" im1="5" im2="5" /><item text="sResult" id="41324" im0="13" im1="13" im2="13" /></item>
+<item text="executeCommand" id="34666" im0="12" im1="12" im2="12" ><item text="sCommand" id="39820" im0="5" im1="5" im2="5" /><item text="sCommandAttributes" id="41180" im0="5" im1="5" im2="5" /></item>
+<item text="copyFile" id="35780" im0="12" im1="12" im2="12" ><item text="sSourceFile" id="39152" im0="5" im1="5" im2="5" /><item text="sTargetFile" id="39564" im0="5" im1="5" im2="5" /></item>
+<item text="moveFile" id="35140" im0="12" im1="12" im2="12" ><item text="sSourceFile" id="38812" im0="5" im1="5" im2="5" /><item text="sTargetFile" id="36472" im0="5" im1="5" im2="5" /></item>
+<item text="deleteFile" id="35782" im0="12" im1="12" im2="12" ><item text="sSourceFile" id="39272" im0="5" im1="5" im2="5" /></item>
+<item text="writeFile" id="35608" im0="12" im1="12" im2="12" ><item text="sFileName" id="41366" im0="5" im1="5" im2="5" /><item text="sTextStream" id="36680" im0="5" im1="5" im2="5" /></item>
+<item text="readFile" id="35724" im0="12" im1="12" im2="12" ><item text="sFileName" id="39442" im0="5" im1="5" im2="5" /><item text="sTextStream" id="41848" im0="13" im1="13" im2="13" /></item>
+<item text="getSystemTime" id="34186" im0="12" im1="12" im2="12" ><item text="iYear" id="37778" im0="13" im1="13" im2="13" /><item text="iMonth" id="37734" im0="13" im1="13" im2="13" /><item text="iDay" id="37902" im0="13" im1="13" im2="13" /><item text="iHour" id="37118" im0="13" im1="13" im2="13" /><item text="iMinute" id="41070" im0="13" im1="13" im2="13" /><item text="iSecond" id="42210" im0="13" im1="13" im2="13" /></item>
+<item text="getAbsoluteTime" id="35520" im0="12" im1="12" im2="12" ><item text="fAbsoluteTime" id="40338" im0="13" im1="13" im2="13" /></item>
+<item text="killProcess" id="36156" im0="12" im1="12" im2="12" ><item text="sProcess" id="37726" im0="5" im1="5" im2="5" /></item>
+<item text="getProcessId" id="35232" im0="12" im1="12" im2="12" ><item text="sProcess" id="40804" im0="5" im1="5" im2="5" /><item text="lProcessIds" id="40086" im0="13" im1="13" im2="13" /></item>
+<item text="createDirectory" id="35956" im0="12" im1="12" im2="12" ><item text="sPath" id="41508" im0="5" im1="5" im2="5" /></item>
+<item text="removeDirectory" id="34460" im0="12" im1="12" im2="12" ><item text="sPath" id="41422" im0="5" im1="5" im2="5" /></item>
+<item text="zip" id="35660" im0="12" im1="12" im2="12" ><item text="sPath" id="40860" im0="5" im1="5" im2="5" /><item text="sZipFileName" id="41114" im0="5" im1="5" im2="5" /></item>
+<item text="getCurrentDate" id="34740" im0="12" im1="12" im2="12" ><item text="sCurrentDate" id="41110" im0="13" im1="13" im2="13" /></item>
+<item text="getCurrentTimestamp" id="36092" im0="12" im1="12" im2="12" ><item text="sCurrentTimestamp" id="39906" im0="13" im1="13" im2="13" /></item>
+<item text="startCommand" id="35236" im0="12" im1="12" im2="12" ><item text="sCommand" id="41300" im0="5" im1="5" im2="5" /><item text="sCommandAttributes" id="39798" im0="5" im1="5" im2="5" /><item text="sProcessId" id="37112" im0="13" im1="13" im2="13" /></item>
+<item text="getEnvironmentVariable" id="34744" im0="12" im1="12" im2="12" ><item text="sName" id="39308" im0="5" im1="5" im2="5" /><item text="sValue" id="41112" im0="13" im1="13" im2="13" /></item>
+<item text="pathOrFileExits" id="33926" im0="12" im1="12" im2="12" ><item text="sPath" id="37570" im0="5" im1="5" im2="5" /><item text="iResult" id="36516" im0="13" im1="13" im2="13" /></item>
+<item text="getAccessRights" id="34098" im0="12" im1="12" im2="12" ><item text="sPath" id="37990" im0="5" im1="5" im2="5" /><item text="lResult" id="39734" im0="13" im1="13" im2="13" /></item>
+</item>
+</item>
+<item text="OperatingSystem" id="33144" im0="14" im1="14" im2="14" ><item text="wait" id="35372" im0="12" im1="12" im2="12" ><item text="iSleepTime" id="37274" im0="5" im1="5" im2="5" /></item>
+<item text="setBreakPoint" id="35274" im0="12" im1="12" im2="12" ><item text="sMsgText" id="37220" im0="5" im1="5" im2="5" /></item>
+<item text="displayUserInputDialog" id="34814" im0="12" im1="12" im2="12" ><item text="sDialogText" id="39840" im0="5" im1="5" im2="5" /><item text="sDialogTitle" id="39160" im0="5" im1="5" im2="5" /><item text="sUserInput" id="36412" im0="13" im1="13" im2="13" /></item>
+<item text="displayQuestionDialog" id="33864" im0="12" im1="12" im2="12" ><item text="sQuestionText" id="40666" im0="5" im1="5" im2="5" /><item text="sDialogTitle" id="37224" im0="5" im1="5" im2="5" /><item text="iResult" id="36668" im0="13" im1="13" im2="13" /></item>
+<item text="displayFileOpenDialog" id="34718" im0="12" im1="12" im2="12" ><item text="sDialogTitle" id="37374" im0="5" im1="5" im2="5" /><item text="sResult" id="40078" im0="13" im1="13" im2="13" /></item>
+<item text="displaySelectDialog" id="34884" im0="12" im1="12" im2="12" ><item text="lListItems" id="36380" im0="5" im1="5" im2="5" /><item text="sDialogTitle" id="41802" im0="5" im1="5" im2="5" /><item text="sResult" id="38998" im0="13" im1="13" im2="13" /></item>
+<item text="executeCommand" id="33694" im0="12" im1="12" im2="12" ><item text="sCommand" id="41430" im0="5" im1="5" im2="5" /><item text="sCommandAttributes" id="42082" im0="5" im1="5" im2="5" /></item>
+<item text="copyFile" id="33514" im0="12" im1="12" im2="12" ><item text="sSourceFile" id="41104" im0="5" im1="5" im2="5" /><item text="sTargetFile" id="42048" im0="5" im1="5" im2="5" /></item>
+<item text="moveFile" id="33548" im0="12" im1="12" im2="12" ><item text="sSourceFile" id="40380" im0="5" im1="5" im2="5" /><item text="sTargetFile" id="36364" im0="5" im1="5" im2="5" /></item>
+<item text="deleteFile" id="35564" im0="12" im1="12" im2="12" ><item text="sSourceFile" id="39640" im0="5" im1="5" im2="5" /></item>
+<item text="writeFile" id="35910" im0="12" im1="12" im2="12" ><item text="sFileName" id="38798" im0="5" im1="5" im2="5" /><item text="sTextStream" id="41750" im0="5" im1="5" im2="5" /></item>
+<item text="readFile" id="34990" im0="12" im1="12" im2="12" ><item text="sFileName" id="37152" im0="5" im1="5" im2="5" /><item text="sTextStream" id="39212" im0="13" im1="13" im2="13" /></item>
+<item text="getSystemTime" id="34686" im0="12" im1="12" im2="12" ><item text="iYear" id="36920" im0="13" im1="13" im2="13" /><item text="iMonth" id="37012" im0="13" im1="13" im2="13" /><item text="iDay" id="41250" im0="13" im1="13" im2="13" /><item text="iHour" id="38976" im0="13" im1="13" im2="13" /><item text="iMinute" id="36810" im0="13" im1="13" im2="13" /><item text="iSecond" id="39336" im0="13" im1="13" im2="13" /></item>
+<item text="getAbsoluteTime" id="34434" im0="12" im1="12" im2="12" ><item text="fAbsoluteTime" id="36838" im0="13" im1="13" im2="13" /></item>
+<item text="killProcess" id="35584" im0="12" im1="12" im2="12" ><item text="sProcess" id="41038" im0="5" im1="5" im2="5" /></item>
+<item text="getProcessId" id="34888" im0="12" im1="12" im2="12" ><item text="sProcess" id="40082" im0="5" im1="5" im2="5" /><item text="lProcessIds" id="42030" im0="13" im1="13" im2="13" /></item>
+<item text="createDirectory" id="33692" im0="12" im1="12" im2="12" ><item text="sPath" id="38456" im0="5" im1="5" im2="5" /></item>
+<item text="removeDirectory" id="35722" im0="12" im1="12" im2="12" ><item text="sPath" id="39742" im0="5" im1="5" im2="5" /></item>
+<item text="zip" id="35436" im0="12" im1="12" im2="12" ><item text="sPath" id="37896" im0="5" im1="5" im2="5" /><item text="sZipFileName" id="37662" im0="5" im1="5" im2="5" /></item>
+<item text="getCurrentDate" id="36030" im0="12" im1="12" im2="12" ><item text="sCurrentDate" id="39162" im0="13" im1="13" im2="13" /></item>
+<item text="getCurrentTimestamp" id="35448" im0="12" im1="12" im2="12" ><item text="sCurrentTimestamp" id="40936" im0="13" im1="13" im2="13" /></item>
+<item text="startCommand" id="35414" im0="12" im1="12" im2="12" ><item text="sCommand" id="38580" im0="5" im1="5" im2="5" /><item text="sCommandAttributes" id="41236" im0="5" im1="5" im2="5" /><item text="sProcessId" id="40824" im0="13" im1="13" im2="13" /></item>
+<item text="getEnvironmentVariable" id="35350" im0="12" im1="12" im2="12" ><item text="sName" id="37666" im0="5" im1="5" im2="5" /><item text="sValue" id="41830" im0="13" im1="13" im2="13" /></item>
+<item text="pathOrFileExits" id="34304" im0="12" im1="12" im2="12" ><item text="sPath" id="39206" im0="5" im1="5" im2="5" /><item text="iResult" id="36390" im0="13" im1="13" im2="13" /></item>
+<item text="getAccessRights" id="33538" im0="12" im1="12" im2="12" ><item text="sPath" id="37062" im0="5" im1="5" im2="5" /><item text="lResult" id="36690" im0="13" im1="13" im2="13" /></item>
+</item>
+</item>
+<item text="profile" id="1005" im0="0" im1="0" im2="0" ><item text="BasicTestSuite" id="1149" im0="2" im1="2" im2="2" ><item text="title" id="1154" im0="11" im1="11" im2="11" /><item text="project" id="1155" im0="11" im1="11" im2="11" /><item text="subject" id="1156" im0="11" im1="11" im2="11" /><item text="comment" id="1157" im0="11" im1="11" im2="11" /><item text="operator" id="1158" im0="11" im1="11" im2="11" /><item text="department" id="1159" im0="11" im1="11" im2="11" /><item text="phone" id="1160" im0="11" im1="11" im2="11" /><item text="mail" id="1161" im0="11" im1="11" im2="11" /><item text="initialization" id="1162" im0="3" im1="3" im2="3" ><item text="runs" id="1163" im0="5" im1="5" im2="5" /><item text="initialization" id="42234" im0="4" im1="4" im2="4" /></item>
+<item text="deInitialization" id="1164" im0="3" im1="3" im2="3" ><item text="runs" id="1165" im0="5" im1="5" im2="5" /><item text="deInitialization" id="42224" im0="4" im1="4" im2="4" /></item>
+<item text="execute" id="1166" im0="3" im1="3" im2="3" ><item text="runs" id="1167" im0="5" im1="5" im2="5" /><item text="execute" id="42436" im0="4" im1="4" im2="4" /></item>
+<item text="exception" id="1168" im0="18" im1="18" im2="18" ><item text="runs" id="1169" im0="5" im1="5" im2="5" /><item text="exception" id="42378" im0="4" im1="4" im2="4" /></item>
+</item>
+<item text="administrativeCase" id="1013" im0="15" im1="15" im2="15" /><item text="codeGenWellKnownObject" id="1038" im0="15" im1="15" im2="15" /><item text="deprecated" id="1019" im0="15" im1="15" im2="15" /><item text="implementationClass" id="1043" im0="15" im1="15" im2="15" /><item text="interfaceGroup" id="1021" im0="15" im1="15" im2="15" /><item text="modelUpdate" id="1044" im0="15" im1="15" im2="15" /><item text="systemConfiguration" id="1030" im0="15" im1="15" im2="15" /><item text="testCase" id="1012" im0="15" im1="15" im2="15" /><item text="testCaseComposition" id="1033" im0="15" im1="15" im2="15" /><item text="testSequence" id="1014" im0="15" im1="15" im2="15" /><item text="testSuite" id="1035" im0="15" im1="15" im2="15" /><item text="useAsImplementation" id="1036" im0="15" im1="15" im2="15" /><item text="duration" id="1107" im0="17" im1="17" im2="17" /><item text="duration" id="1104" im0="17" im1="17" im2="17" /><item text="forInterface" id="1117" im0="17" im1="17" im2="17" /><item text="functionalRequirement" id="1108" im0="17" im1="17" im2="17" /><item text="implementationPriority" id="1109" im0="17" im1="17" im2="17" /><item text="modelVersion" id="1121" im0="17" im1="17" im2="17" /><item text="name" id="1106" im0="17" im1="17" im2="17" /><item text="purpose" id="1118" im0="17" im1="17" im2="17" /><item text="replacement" id="42586" im0="17" im1="17" im2="17" /><item text="riskEvaluation" id="1110" im0="17" im1="17" im2="17" /><item text="shadowTestCaseState" id="1114" im0="17" im1="17" im2="17" /><item text="systemConfigurationLink" id="1116" im0="17" im1="17" im2="17" /><item text="testCaseId" id="1111" im0="17" im1="17" im2="17" /><item text="testCaseState" id="1112" im0="17" im1="17" im2="17" /><item text="testCaseStateComment" id="1113" im0="17" im1="17" im2="17" /><item text="version" id="1115" im0="17" im1="17" im2="17" /></item>
+<item text="protocols" id="32896" im0="0" im1="0" im2="0" ><item text="communication" id="32932" im0="0" im1="0" im2="0" ><item text="details" id="32872" im0="0" im1="0" im2="0" ><item text="TCPCommunication" id="33086" im0="10" im1="10" im2="10" ><item text="aSocket" id="33368" im0="11" im1="11" im2="11" /><item text="aConnection" id="33472" im0="11" im1="11" im2="11" /><item text="startServerSocket" id="34804" im0="12" im1="12" im2="12" ><item text="sIpAddress" id="40530" im0="5" im1="5" im2="5" /><item text="iPort" id="37514" im0="5" im1="5" im2="5" /></item>
+<item text="connectClientToServer" id="35872" im0="12" im1="12" im2="12" ><item text="sIpAddress" id="38926" im0="5" im1="5" im2="5" /><item text="iPort" id="37904" im0="5" im1="5" im2="5" /></item>
+<item text="waitForData" id="35600" im0="12" im1="12" im2="12" /><item text="receiveData" id="35824" im0="12" im1="12" im2="12" ><item text="iNumOfBytes" id="41230" im0="5" im1="5" im2="5" /><item text="aData" id="39774" im0="13" im1="13" im2="13" /></item>
+<item text="sendData" id="34196" im0="12" im1="12" im2="12" ><item text="aData" id="38016" im0="5" im1="5" im2="5" /></item>
+<item text="closeConnection" id="35240" im0="12" im1="12" im2="12" /></item>
+</item>
+<item text="Communication" id="33112" im0="14" im1="14" im2="14" ><item text="startServerSocket" id="33792" im0="12" im1="12" im2="12" ><item text="sIpAddress" id="37674" im0="5" im1="5" im2="5" /><item text="iPort" id="41604" im0="5" im1="5" im2="5" /></item>
+<item text="connectClientToServer" id="35602" im0="12" im1="12" im2="12" ><item text="sIpAddress" id="41662" im0="5" im1="5" im2="5" /><item text="iPort" id="36802" im0="5" im1="5" im2="5" /></item>
+<item text="waitForData" id="33836" im0="12" im1="12" im2="12" /><item text="receiveData" id="33786" im0="12" im1="12" im2="12" ><item text="iNumOfBytes" id="36788" im0="5" im1="5" im2="5" /><item text="aData" id="39934" im0="13" im1="13" im2="13" /></item>
+<item text="sendData" id="35410" im0="12" im1="12" im2="12" ><item text="aData" id="37984" im0="5" im1="5" im2="5" /></item>
+<item text="closeConnection" id="35674" im0="12" im1="12" im2="12" /></item>
+</item>
+<item text="rs232" id="32958" im0="0" im1="0" im2="0" ><item text="details" id="32898" im0="0" im1="0" im2="0" ><item text="RS232" id="33310" im0="10" im1="10" im2="10" ><item text="aRS232Handle" id="33378" im0="11" im1="11" im2="11" /><item text="openChannel" id="34056" im0="12" im1="12" im2="12" ><item text="sPort" id="39646" im0="5" im1="5" im2="5" /><item text="iBaudrate" id="38776" im0="5" im1="5" im2="5" /><item text="sParity" id="41472" im0="5" im1="5" im2="5" /><item text="iStopBit" id="40420" im0="5" im1="5" im2="5" /><item text="iDataBits" id="40052" im0="5" im1="5" im2="5" /><item text="iBufferSize" id="38842" im0="5" im1="5" im2="5" /><item text="iTimeOut" id="40654" im0="5" im1="5" im2="5" /></item>
+<item text="sendCommand" id="35058" im0="12" im1="12" im2="12" ><item text="sCommand" id="38210" im0="5" im1="5" im2="5" /><item text="sResult" id="40158" im0="13" im1="13" im2="13" /></item>
+<item text="sendFile" id="35576" im0="12" im1="12" im2="12" ><item text="sFile" id="41834" im0="5" im1="5" im2="5" /><item text="sResult" id="37414" im0="13" im1="13" im2="13" /></item>
+<item text="closeChannel" id="34086" im0="12" im1="12" im2="12" /></item>
+</item>
+<item text="RS232" id="33098" im0="14" im1="14" im2="14" ><item text="openChannel" id="34956" im0="12" im1="12" im2="12" ><item text="sPort" id="39872" im0="5" im1="5" im2="5" /><item text="iBaudrate" id="36238" im0="5" im1="5" im2="5" /><item text="sParity" id="41884" im0="5" im1="5" im2="5" /><item text="iStopBit" id="36742" im0="5" im1="5" im2="5" /><item text="iDataBits" id="41898" im0="5" im1="5" im2="5" /><item text="iBufferSize" id="42008" im0="5" im1="5" im2="5" /><item text="iTimeOut" id="38284" im0="5" im1="5" im2="5" /></item>
+<item text="sendCommand" id="34080" im0="12" im1="12" im2="12" ><item text="sCommand" id="37128" im0="5" im1="5" im2="5" /><item text="sResult" id="37120" im0="13" im1="13" im2="13" /></item>
+<item text="sendFile" id="34178" im0="12" im1="12" im2="12" ><item text="sFile" id="39970" im0="5" im1="5" im2="5" /><item text="sResult" id="38162" im0="13" im1="13" im2="13" /></item>
+<item text="closeChannel" id="34570" im0="12" im1="12" im2="12" /></item>
+</item>
+</item>
+<item text="report" id="1006" im0="0" im1="0" im2="0" ><item text="details" id="32844" im0="0" im1="0" im2="0" ><item text="PythonLogfile" id="33152" im0="10" im1="10" im2="10" ><item text="logExecutionMessage" id="33494" im0="12" im1="12" im2="12" ><item text="aLogInformation" id="37108" im0="5" im1="5" im2="5" /></item>
+<item text="logErrorMessage" id="35260" im0="12" im1="12" im2="12" ><item text="aLogInformation" id="40738" im0="5" im1="5" im2="5" /></item>
+<item text="logWarningMessage" id="34166" im0="12" im1="12" im2="12" ><item text="aLogInformation" id="37952" im0="5" im1="5" im2="5" /></item>
+<item text="logInfoMessage" id="34802" im0="12" im1="12" im2="12" ><item text="aLogInformation" id="40506" im0="5" im1="5" im2="5" /></item>
+<item text="logDebugMessage" id="35954" im0="12" im1="12" im2="12" ><item text="aLogInformation" id="39096" im0="5" im1="5" im2="5" /></item>
+<item text="logInternalMessage" id="34828" im0="12" im1="12" im2="12" ><item text="aLogInformation" id="38378" im0="5" im1="5" im2="5" /></item>
+<item text="logStaticParametersDictionaryContents" id="33586" im0="12" im1="12" im2="12" /><item text="logSystemDictionaryContents" id="34904" im0="12" im1="12" im2="12" /><item text="logDynamicParameterDictionaryContents" id="33950" im0="12" im1="12" im2="12" /><item text="switchOffLogging" id="35338" im0="12" im1="12" im2="12" /><item text="switchOnLogging" id="36024" im0="12" im1="12" im2="12" /><item text="setLogLevelOff" id="33632" im0="12" im1="12" im2="12" /><item text="setLogLevelExecution" id="34332" im0="12" im1="12" im2="12" /><item text="setLogLevelError" id="35078" im0="12" im1="12" im2="12" /><item text="setLogLevelWarning" id="34554" im0="12" im1="12" im2="12" /><item text="setLogLevelInfo" id="35904" im0="12" im1="12" im2="12" /><item text="setLogLevelDebug" id="35810" im0="12" im1="12" im2="12" /><item text="setLogLevelInternal" id="35124" im0="12" im1="12" im2="12" /><item text="setLogLevelToDefault" id="35192" im0="12" im1="12" im2="12" /></item>
+<item text="PythonReport" id="33168" im0="10" im1="10" im2="10" ><item text="dActualSubTestValuation" id="33440" im0="11" im1="11" im2="11" /><item text="createSubTest" id="34352" im0="12" im1="12" im2="12" ><item text="sSubTestName" id="40492" im0="5" im1="5" im2="5" /><item text="iValuation" id="41496" im0="5" im1="5" im2="5" /></item>
+<item text="addSubTestDataItem" id="35844" im0="12" im1="12" im2="12" ><item text="sLabel" id="37362" im0="5" im1="5" im2="5" /><item text="aValue" id="36692" im0="5" im1="5" im2="5" /></item>
+<item text="createNewSubTest" id="34194" im0="12" im1="12" im2="12" ><item text="sLabel" id="39534" im0="5" im1="5" im2="5" /><item text="aActualValue" id="39318" im0="5" im1="5" im2="5" /><item text="aRatedValue" id="36484" im0="5" im1="5" im2="5" /><item text="sDimension" id="41634" im0="5" im1="5" im2="5" /><item text="iValuation" id="39718" im0="5" im1="5" im2="5" /><item text="sComment" id="39322" im0="5" im1="5" im2="5" /></item>
+<item text="createCommentSubTest" id="35832" im0="12" im1="12" im2="12" ><item text="sComment" id="37280" im0="5" im1="5" im2="5" /></item>
+<item text="updateSubTestValuation" id="34676" im0="12" im1="12" im2="12" ><item text="iValuation" id="41446" im0="5" im1="5" im2="5" /></item>
+<item text="getCurrentSubTestValuation" id="34868" im0="12" im1="12" im2="12" ><item text="iValuation" id="40740" im0="13" im1="13" im2="13" /></item>
+<item text="addStatisticDataItem" id="34708" im0="12" im1="12" im2="12" ><item text="sLabel" id="38700" im0="5" im1="5" im2="5" /><item text="aValue" id="37082" im0="5" im1="5" im2="5" /></item>
+<item text="addReportMetaDataItem" id="35758" im0="12" im1="12" im2="12" ><item text="sLabel" id="39102" im0="5" im1="5" im2="5" /><item text="aValue" id="38862" im0="5" im1="5" im2="5" /><item text="lCategory" id="41078" im0="5" im1="5" im2="5" /></item>
+<item text="addTestMetaDataItem" id="35380" im0="12" im1="12" im2="12" ><item text="sLabel" id="40840" im0="5" im1="5" im2="5" /><item text="aValue" id="37478" im0="5" im1="5" im2="5" /><item text="lCategory" id="39000" im0="5" im1="5" im2="5" /></item>
+<item text="attachFileToReport" id="35426" im0="12" im1="12" im2="12" ><item text="sFileName" id="40010" im0="5" im1="5" im2="5" /><item text="sFileDescription" id="40848" im0="5" im1="5" im2="5" /><item text="iDeleteFile" id="41734" im0="5" im1="5" im2="5" /></item>
+<item text="attachFileToTest" id="35916" im0="12" im1="12" im2="12" ><item text="sFileName" id="40500" im0="5" im1="5" im2="5" /><item text="sFileDescription" id="42172" im0="5" im1="5" im2="5" /><item text="iDeleteFile" id="38872" im0="5" im1="5" im2="5" /></item>
+<item text="setTestComment" id="33922" im0="12" im1="12" im2="12" ><item text="sComment" id="38036" im0="5" im1="5" im2="5" /></item>
+<item text="addModelMessage" id="33540" im0="12" im1="12" im2="12" ><item text="sLabel" id="40674" im0="5" im1="5" im2="5" /><item text="sDescription" id="42010" im0="5" im1="5" im2="5" /><item text="iValuation" id="37988" im0="5" im1="5" im2="5" /></item>
+</item>
+</item>
+<item text="Logfile" id="33124" im0="14" im1="14" im2="14" ><item text="logExecutionMessage" id="36076" im0="12" im1="12" im2="12" ><item text="aLogInformation" id="37022" im0="5" im1="5" im2="5" /></item>
+<item text="logErrorMessage" id="34060" im0="12" im1="12" im2="12" ><item text="aLogInformation" id="39262" im0="5" im1="5" im2="5" /></item>
+<item text="logWarningMessage" id="35336" im0="12" im1="12" im2="12" ><item text="aLogInformation" id="37424" im0="5" im1="5" im2="5" /></item>
+<item text="logInfoMessage" id="35970" im0="12" im1="12" im2="12" ><item text="aLogInformation" id="41256" im0="5" im1="5" im2="5" /></item>
+<item text="logDebugMessage" id="36098" im0="12" im1="12" im2="12" ><item text="aLogInformation" id="38548" im0="5" im1="5" im2="5" /></item>
+<item text="logInternalMessage" id="35582" im0="12" im1="12" im2="12" ><item text="aLogInformation" id="39190" im0="5" im1="5" im2="5" /></item>
+<item text="logStaticParametersDictionaryContents" id="36058" im0="12" im1="12" im2="12" /><item text="logSystemDictionaryContents" id="33904" im0="12" im1="12" im2="12" /><item text="logDynamicParameterDictionaryContents" id="34684" im0="12" im1="12" im2="12" /><item text="switchOffLogging" id="34406" im0="12" im1="12" im2="12" /><item text="switchOnLogging" id="33716" im0="12" im1="12" im2="12" /><item text="setLogLevelOff" id="35238" im0="12" im1="12" im2="12" /><item text="setLogLevelExecution" id="34372" im0="12" im1="12" im2="12" /><item text="setLogLevelError" id="35214" im0="12" im1="12" im2="12" /><item text="setLogLevelWarning" id="33992" im0="12" im1="12" im2="12" /><item text="setLogLevelInfo" id="34312" im0="12" im1="12" im2="12" /><item text="setLogLevelDebug" id="35756" im0="12" im1="12" im2="12" /><item text="setLogLevelInternal" id="35512" im0="12" im1="12" im2="12" /><item text="setLogLevelToDefault" id="34096" im0="12" im1="12" im2="12" /></item>
+<item text="Report" id="1171" im0="14" im1="14" im2="14" ><item text="createSubTest" id="35802" im0="12" im1="12" im2="12" ><item text="sSubTestName" id="38668" im0="5" im1="5" im2="5" /><item text="iValuation" id="37350" im0="5" im1="5" im2="5" /></item>
+<item text="addSubTestDataItem" id="33846" im0="12" im1="12" im2="12" ><item text="sLabel" id="40328" im0="5" im1="5" im2="5" /><item text="aValue" id="41146" im0="5" im1="5" im2="5" /></item>
+<item text="createNewSubTest" id="35626" im0="12" im1="12" im2="12" ><item text="sLabel" id="40102" im0="5" im1="5" im2="5" /><item text="aActualValue" id="41826" im0="5" im1="5" im2="5" /><item text="aRatedValue" id="38946" im0="5" im1="5" im2="5" /><item text="sDimension" id="42002" im0="5" im1="5" im2="5" /><item text="iValuation" id="39100" im0="5" im1="5" im2="5" /><item text="sComment" id="38672" im0="5" im1="5" im2="5" /></item>
+<item text="createCommentSubTest" id="1172" im0="12" im1="12" im2="12" ><item text="sComment" id="1175" im0="5" im1="5" im2="5" /></item>
+<item text="updateSubTestValuation" id="35446" im0="12" im1="12" im2="12" ><item text="iValuation" id="40768" im0="5" im1="5" im2="5" /></item>
+<item text="getCurrentSubTestValuation" id="35092" im0="12" im1="12" im2="12" ><item text="iValuation" id="40164" im0="13" im1="13" im2="13" /></item>
+<item text="addStatisticDataItem" id="35012" im0="12" im1="12" im2="12" ><item text="sLabel" id="41296" im0="5" im1="5" im2="5" /><item text="aValue" id="37408" im0="5" im1="5" im2="5" /></item>
+<item text="addReportMetaDataItem" id="34306" im0="12" im1="12" im2="12" ><item text="sLabel" id="40142" im0="5" im1="5" im2="5" /><item text="aValue" id="39848" im0="5" im1="5" im2="5" /><item text="lCategory" id="37978" im0="5" im1="5" im2="5" /></item>
+<item text="addTestMetaDataItem" id="33858" im0="12" im1="12" im2="12" ><item text="sLabel" id="37998" im0="5" im1="5" im2="5" /><item text="aValue" id="40058" im0="5" im1="5" im2="5" /><item text="lCategory" id="40960" im0="5" im1="5" im2="5" /></item>
+<item text="attachFileToReport" id="35270" im0="12" im1="12" im2="12" ><item text="sFileName" id="37418" im0="5" im1="5" im2="5" /><item text="sFileDescription" id="36880" im0="5" im1="5" im2="5" /><item text="iDeleteFile" id="40378" im0="5" im1="5" im2="5" /></item>
+<item text="attachFileToTest" id="35876" im0="12" im1="12" im2="12" ><item text="sFileName" id="37306" im0="5" im1="5" im2="5" /><item text="sFileDescription" id="37304" im0="5" im1="5" im2="5" /><item text="iDeleteFile" id="42140" im0="5" im1="5" im2="5" /></item>
+<item text="setTestComment" id="35310" im0="12" im1="12" im2="12" ><item text="sComment" id="37624" im0="5" im1="5" im2="5" /></item>
+<item text="addModelMessage" id="35796" im0="12" im1="12" im2="12" ><item text="sLabel" id="38540" im0="5" im1="5" im2="5" /><item text="sDescription" id="42066" im0="5" im1="5" im2="5" /><item text="iValuation" id="36282" im0="5" im1="5" im2="5" /></item>
+</item>
+</item>
+</item>
+<item text="RPPTest (Start Point)" id="163841" im0="0" im1="0" im2="0" open="1"><item text="basics" id="163853" im0="0" im1="0" im2="0" ><item text="deInit" id="164205" im0="6" im1="6" im2="6" ><item text="deInit" id="164210" im0="4" im1="4" im2="4" /><item text="deInit_COMP" id="164215" im0="7" im1="7" im2="7" /></item>
+<item text="init" id="164162" im0="6" im1="6" im2="6" ><item text="init" id="164167" im0="4" im1="4" im2="4" /><item text="init_COMP" id="164172" im0="7" im1="7" im2="7" /></item>
+</item>
+<item text="board" id="164129" im0="0" im1="0" im2="0" ><item text="Board" id="262145" im0="14" im1="14" im2="14" ><item text="loutset" id="262151" im0="12" im1="12" im2="12" ><item text="bit" id="262154" im0="5" im1="5" im2="5" /><item text="logVal" id="262157" im0="5" im1="5" im2="5" /><item text="value" id="262242" im0="13" im1="13" im2="13" /></item>
+<item text="loutdiag" id="262393" im0="12" im1="12" im2="12" ><item text="bit" id="262395" im0="5" im1="5" im2="5" /><item text="value" id="524505" im0="13" im1="13" im2="13" /></item>
+<item text="adcread" id="262439" im0="12" im1="12" im2="12" ><item text="bit" id="262441" im0="5" im1="5" im2="5" /><item text="value" id="262443" im0="13" im1="13" im2="13" /></item>
+<item text="dacpinenable" id="262551" im0="12" im1="12" im2="12" ><item text="bit" id="262555" im0="5" im1="5" im2="5" /><item text="enable" id="262573" im0="5" im1="5" im2="5" /><item text="res" id="262577" im0="13" im1="13" im2="13" /></item>
+<item text="dacpinvoltage" id="262621" im0="12" im1="12" im2="12" ><item text="bit" id="262623" im0="5" im1="5" im2="5" /><item text="voltage" id="262625" im0="5" im1="5" im2="5" /><item text="res" id="262627" im0="13" im1="13" im2="13" /></item>
+<item text="sleep" id="262692" im0="12" im1="12" im2="12" /><item text="dinsetup" id="262787" im0="12" im1="12" im2="12" ><item text="bit" id="262789" im0="5" im1="5" im2="5" /><item text="pullType" id="262791" im0="5" im1="5" im2="5" /><item text="active" id="262793" im0="5" im1="5" im2="5" /><item text="canWake" id="262808" im0="5" im1="5" im2="5" /><item text="sRes" id="262816" im0="13" im1="13" im2="13" /></item>
+<item text="dinget" id="262855" im0="12" im1="12" im2="12" ><item text="bit" id="262857" im0="5" im1="5" im2="5" /><item text="sRes" id="262861" im0="13" im1="13" im2="13" /></item>
+<item text="hbrdisable" id="263010" im0="12" im1="12" im2="12" ><item text="value" id="1016286" im0="13" im1="13" im2="13" /></item>
+<item text="hbrenable" id="327680" im0="12" im1="12" im2="12" ><item text="period" id="327682" im0="5" im1="5" im2="5" /><item text="value" id="327684" im0="13" im1="13" im2="13" /></item>
+<item text="houtifbk" id="263036" im0="12" im1="12" im2="12" ><item text="bit" id="263038" im0="5" im1="5" im2="5" /><item text="value" id="263040" im0="13" im1="13" im2="13" /></item>
+<item text="houtpwm" id="263091" im0="12" im1="12" im2="12" ><item text="bit" id="263093" im0="5" im1="5" im2="5" /><item text="period" id="263095" im0="5" im1="5" im2="5" /><item text="duty" id="263097" im0="5" im1="5" im2="5" /><item text="sRes" id="263125" im0="13" im1="13" im2="13" /></item>
+<item text="houtpwmstart" id="294912" im0="12" im1="12" im2="12" ><item text="bit" id="294914" im0="5" im1="5" im2="5" /><item text="sRes" id="294916" im0="13" im1="13" im2="13" /></item>
+<item text="houtpwmstop" id="294948" im0="12" im1="12" im2="12" ><item text="bit" id="294950" im0="5" im1="5" im2="5" /><item text="sRes" id="294952" im0="13" im1="13" im2="13" /></item>
+<item text="hbrcontrol" id="327750" im0="12" im1="12" im2="12" ><item text="dutyCycle" id="327752" im0="5" im1="5" im2="5" /><item text="value" id="327754" im0="13" im1="13" im2="13" /></item>
+<item text="pinvalset" id="327785" im0="12" im1="12" im2="12" ><item text="name" id="327787" im0="5" im1="5" im2="5" /><item text="value" id="327789" im0="5" im1="5" im2="5" /><item text="sRes" id="327791" im0="13" im1="13" im2="13" /></item>
+<item text="pinvalget" id="327827" im0="12" im1="12" im2="12" ><item text="name" id="327829" im0="5" im1="5" im2="5" /><item text="sRes" id="327833" im0="13" im1="13" im2="13" /></item>
+<item text="pindirset" id="327879" im0="12" im1="12" im2="12" ><item text="name" id="327881" im0="5" im1="5" im2="5" /><item text="value" id="327883" im0="5" im1="5" im2="5" /><item text="sRes" id="327885" im0="13" im1="13" im2="13" /></item>
+<item text="pindirget" id="327899" im0="12" im1="12" im2="12" ><item text="name" id="327901" im0="5" im1="5" im2="5" /><item text="sRes" id="327903" im0="13" im1="13" im2="13" /></item>
+<item text="poweron" id="328009" im0="12" im1="12" im2="12" ><item text="sRes" id="328013" im0="13" im1="13" im2="13" /></item>
+<item text="poweroff" id="328023" im0="12" im1="12" im2="12" ><item text="sRes" id="328025" im0="13" im1="13" im2="13" /></item>
+<item text="moutset" id="1048886" im0="12" im1="12" im2="12" ><item text="bit" id="1048888" im0="5" im1="5" im2="5" /><item text="logVal" id="1048890" im0="5" im1="5" im2="5" /><item text="value" id="1048892" im0="13" im1="13" im2="13" /></item>
+<item text="moutdiag" id="1048894" im0="12" im1="12" im2="12" ><item text="bit" id="1048896" im0="5" im1="5" im2="5" /><item text="value" id="1048898" im0="13" im1="13" im2="13" /></item>
+</item>
+<item text="RPPboard" id="262169" im0="10" im1="10" im2="10" ><item text="loutset" id="262215" im0="12" im1="12" im2="12" ><item text="bit" id="262217" im0="5" im1="5" im2="5" /><item text="logVal" id="262219" im0="5" im1="5" im2="5" /><item text="value" id="262246" im0="13" im1="13" im2="13" /><item text="loutset" id="262228" im0="4" im1="4" im2="4" /></item>
+<item text="loutdiag" id="262411" im0="12" im1="12" im2="12" ><item text="bit" id="524521" im0="5" im1="5" im2="5" /><item text="value" id="524535" im0="13" im1="13" im2="13" /><item text="loutdiag" id="262419" im0="4" im1="4" im2="4" /></item>
+<item text="adcread" id="262450" im0="12" im1="12" im2="12" ><item text="bit" id="262452" im0="5" im1="5" im2="5" /><item text="value" id="262454" im0="13" im1="13" im2="13" /><item text="adcread" id="852077" im0="4" im1="4" im2="4" /></item>
+<item text="dacpinenable" id="262581" im0="12" im1="12" im2="12" ><item text="bit" id="262583" im0="5" im1="5" im2="5" /><item text="enable" id="262585" im0="5" im1="5" im2="5" /><item text="res" id="262587" im0="13" im1="13" im2="13" /><item text="dacpinenable" id="262591" im0="4" im1="4" im2="4" /></item>
+<item text="dacpinvoltage" id="262641" im0="12" im1="12" im2="12" ><item text="bit" id="262643" im0="5" im1="5" im2="5" /><item text="voltage" id="262645" im0="5" im1="5" im2="5" /><item text="res" id="262647" im0="13" im1="13" im2="13" /><item text="dacpinvoltage" id="262651" im0="4" im1="4" im2="4" /></item>
+<item text="sleep" id="262696" im0="12" im1="12" im2="12" ><item text="sleep" id="262698" im0="4" im1="4" im2="4" /></item>
+<item text="dinsetup" id="262826" im0="12" im1="12" im2="12" ><item text="bit" id="262828" im0="5" im1="5" im2="5" /><item text="pullType" id="262830" im0="5" im1="5" im2="5" /><item text="active" id="262832" im0="5" im1="5" im2="5" /><item text="canWake" id="262834" im0="5" im1="5" im2="5" /><item text="sRes" id="262836" im0="13" im1="13" im2="13" /><item text="dinsetup" id="262840" im0="4" im1="4" im2="4" /></item>
+<item text="dinget" id="262870" im0="12" im1="12" im2="12" ><item text="bit" id="262872" im0="5" im1="5" im2="5" /><item text="sRes" id="262876" im0="13" im1="13" im2="13" /><item text="dinget" id="360488" im0="4" im1="4" im2="4" /></item>
+<item text="hbrdisable" id="263017" im0="12" im1="12" im2="12" ><item text="value" id="1016294" im0="13" im1="13" im2="13" /><item text="hbrdisable" id="263019" im0="4" im1="4" im2="4" /></item>
+<item text="hbrenable" id="327727" im0="12" im1="12" im2="12" ><item text="period" id="327729" im0="5" im1="5" im2="5" /><item text="value" id="327731" im0="13" im1="13" im2="13" /><item text="hbrenable" id="327735" im0="4" im1="4" im2="4" /></item>
+<item text="houtifbk" id="263047" im0="12" im1="12" im2="12" ><item text="bit" id="263049" im0="5" im1="5" im2="5" /><item text="value" id="263051" im0="13" im1="13" im2="13" /></item>
+<item text="houtpwm" id="263150" im0="12" im1="12" im2="12" ><item text="bit" id="263152" im0="5" im1="5" im2="5" /><item text="period" id="263154" im0="5" im1="5" im2="5" /><item text="duty" id="263156" im0="5" im1="5" im2="5" /><item text="sRes" id="263158" im0="13" im1="13" im2="13" /><item text="houtpwm" id="263162" im0="4" im1="4" im2="4" /></item>
+<item text="houtpwmstart" id="294925" im0="12" im1="12" im2="12" ><item text="bit" id="294927" im0="5" im1="5" im2="5" /><item text="sRes" id="294929" im0="13" im1="13" im2="13" /><item text="houtpwmstart" id="294933" im0="4" im1="4" im2="4" /></item>
+<item text="houtpwmstop" id="294959" im0="12" im1="12" im2="12" ><item text="bit" id="294961" im0="5" im1="5" im2="5" /><item text="sRes" id="294963" im0="13" im1="13" im2="13" /><item text="houtpwmstop" id="294965" im0="4" im1="4" im2="4" /></item>
+<item text="hbrcontrol" id="327761" im0="12" im1="12" im2="12" ><item text="dutyCycle" id="327763" im0="5" im1="5" im2="5" /><item text="value" id="327765" im0="13" im1="13" im2="13" /><item text="hbrcontrol" id="327767" im0="4" im1="4" im2="4" /></item>
+<item text="pinvalset" id="327802" im0="12" im1="12" im2="12" ><item text="name" id="327804" im0="5" im1="5" im2="5" /><item text="value" id="327806" im0="5" im1="5" im2="5" /><item text="sRes" id="327808" im0="13" im1="13" im2="13" /><item text="pinvalset" id="327812" im0="4" im1="4" im2="4" /></item>
+<item text="pinvalget" id="327843" im0="12" im1="12" im2="12" ><item text="name" id="327845" im0="5" im1="5" im2="5" /><item text="sRes" id="327849" im0="13" im1="13" im2="13" /><item text="pinvalget" id="327851" im0="4" im1="4" im2="4" /></item>
+<item text="pindirset" id="327912" im0="12" im1="12" im2="12" ><item text="name" id="327914" im0="5" im1="5" im2="5" /><item text="value" id="327916" im0="5" im1="5" im2="5" /><item text="sRes" id="327918" im0="13" im1="13" im2="13" /><item text="pindirset" id="327920" im0="4" im1="4" im2="4" /></item>
+<item text="pindirget" id="327948" im0="12" im1="12" im2="12" ><item text="name" id="327950" im0="5" im1="5" im2="5" /><item text="sRes" id="327952" im0="13" im1="13" im2="13" /><item text="pindirget" id="327954" im0="4" im1="4" im2="4" /></item>
+<item text="poweron" id="328034" im0="12" im1="12" im2="12" ><item text="sRes" id="328036" im0="13" im1="13" im2="13" /><item text="poweron" id="328041" im0="4" im1="4" im2="4" /></item>
+<item text="poweroff" id="328056" im0="12" im1="12" im2="12" ><item text="sRes" id="328058" im0="13" im1="13" im2="13" /><item text="poweroff" id="328060" im0="4" im1="4" im2="4" /></item>
+<item text="moutset" id="1048911" im0="12" im1="12" im2="12" ><item text="bit" id="1048913" im0="5" im1="5" im2="5" /><item text="logVal" id="1048915" im0="5" im1="5" im2="5" /><item text="value" id="1048917" im0="13" im1="13" im2="13" /><item text="moutset" id="1048919" im0="4" im1="4" im2="4" /></item>
+<item text="moutdiag" id="1048940" im0="12" im1="12" im2="12" ><item text="bit" id="1048942" im0="5" im1="5" im2="5" /><item text="value" id="1048944" im0="13" im1="13" im2="13" /><item text="moutdiag" id="1048946" im0="4" im1="4" im2="4" /></item>
+</item>
+</item>
+<item text="parameters" id="163859" im0="0" im1="0" im2="0" ><item text="PinNumber" id="757886" im0="10" im1="10" im2="10" ><item text="pin" id="757894" im0="11" im1="11" im2="11" /><item text="maxPin" id="819450" im0="11" im1="11" im2="11" /><item text="incrementPinNumber" id="757897" im0="12" im1="12" im2="12" /><item text="getPinNumber" id="757920" im0="12" im1="12" im2="12" ><item text="pinNumber" id="757934" im0="13" im1="13" im2="13" /></item>
+<item text="initPinNumber" id="758007" im0="12" im1="12" im2="12" ><item text="firstPin" id="758022" im0="5" im1="5" im2="5" /><item text="lastPin" id="819454" im0="5" im1="5" im2="5" /></item>
+<item text="getMaxPinNumber" id="819523" im0="12" im1="12" im2="12" ><item text="pinNumber" id="819525" im0="13" im1="13" im2="13" /></item>
+</item>
+</item>
+<item text="parseClass" id="393406" im0="0" im1="0" im2="0" ><item text="parseClass" id="393412" im0="10" im1="10" im2="10" ><item text="dingetParse" id="393420" im0="12" im1="12" im2="12" ><item text="s" id="393434" im0="5" im1="5" im2="5" /><item text="bit" id="393437" im0="5" im1="5" im2="5" /><item text="value" id="393440" im0="13" im1="13" im2="13" /></item>
+<item text="loutdiagParse" id="393604" im0="12" im1="12" im2="12" ><item text="s" id="393614" im0="5" im1="5" im2="5" /><item text="bit" id="393617" im0="5" im1="5" im2="5" /><item text="value" id="393620" im0="13" im1="13" im2="13" /></item>
+<item text="loutsetParse" id="426066" im0="12" im1="12" im2="12" ><item text="s" id="426076" im0="5" im1="5" im2="5" /><item text="bit" id="426079" im0="5" im1="5" im2="5" /><item text="value" id="426082" im0="13" im1="13" im2="13" /></item>
+<item text="parseType1" id="426196" im0="12" im1="12" im2="12" ><item text="s" id="426198" im0="5" im1="5" im2="5" /><item text="value" id="426202" im0="13" im1="13" im2="13" /><item text="command" id="426207" im0="5" im1="5" im2="5" /></item>
+<item text="adcreadParse" id="884763" im0="12" im1="12" im2="12" ><item text="s" id="884773" im0="5" im1="5" im2="5" /><item text="bit" id="884776" im0="5" im1="5" im2="5" /><item text="value" id="884779" im0="13" im1="13" im2="13" /></item>
+</item>
+</item>
+<item text="server" id="328083" im0="0" im1="0" im2="0" ><item text="Server" id="328089" im0="10" im1="10" im2="10" ><item text="startServer" id="557419" im0="12" im1="12" im2="12" ><item text="startServer" id="557421" im0="4" im1="4" im2="4" /></item>
+<item text="diread" id="557450" im0="12" im1="12" im2="12" ><item text="bit" id="589824" im0="5" im1="5" im2="5" /><item text="value" id="589827" im0="13" im1="13" im2="13" /><item text="diread" id="589836" im0="4" im1="4" im2="4" /></item>
+<item text="dowrite" id="557460" im0="12" im1="12" im2="12" ><item text="dowrite" id="557462" im0="4" im1="4" im2="4" /></item>
+<item text="airead" id="557470" im0="12" im1="12" im2="12" ><item text="bit" id="954156" im0="5" im1="5" im2="5" /><item text="value" id="954160" im0="13" im1="13" im2="13" /><item text="airead" id="557472" im0="4" im1="4" im2="4" /></item>
+<item text="aowrite" id="557480" im0="12" im1="12" im2="12" ><item text="bit" id="917536" im0="5" im1="5" im2="5" /><item text="value" id="917548" im0="5" im1="5" im2="5" /><item text="aowrite" id="557482" im0="4" im1="4" im2="4" /></item>
+<item text="killServer" id="622854" im0="12" im1="12" im2="12" ><item text="killServer" id="622856" im0="4" im1="4" im2="4" /></item>
+</item>
+</item>
+<item text="testCases" id="163847" im0="0" im1="0" im2="0" ><item text="pins" id="755002" im0="0" im1="0" im2="0" ><item text="ADIN" id="622738" im0="0" im1="0" im2="0" ><item text="methods" id="950508" im0="0" im1="0" im2="0" ><item text="ADINEvaluate" id="950514" im0="10" im1="10" im2="10" ><item text="evaluate" id="950522" im0="12" im1="12" im2="12" ><item text="actualValue" id="950532" im0="5" im1="5" im2="5" /><item text="ratedValue" id="950535" im0="5" im1="5" im2="5" /><item text="result" id="950538" im0="13" im1="13" im2="13" /><item text="evaluate" id="950524" im0="4" im1="4" im2="4" /></item>
+</item>
+</item>
+<item text="parameters" id="884840" im0="0" im1="0" im2="0" ><item text="ADINParameters" id="758387" im0="10" im1="10" im2="10" ><item text="step" id="758429" im0="11" im1="11" im2="11" /><item text="voltage" id="758446" im0="11" im1="11" im2="11" /><item text="firstPin" id="852123" im0="11" im1="11" im2="11" /><item text="lastPin" id="852126" im0="11" im1="11" im2="11" /><item text="tolerance" id="950585" im0="11" im1="11" im2="11" /><item text="tolerance0V" id="950591" im0="11" im1="11" im2="11" /><item text="numberOfSteps" id="1049167" im0="11" im1="11" im2="11" /><item text="init" id="758432" im0="12" im1="12" im2="12" /><item text="getVoltage" id="786459" im0="12" im1="12" im2="12" ><item text="vol" id="786472" im0="13" im1="13" im2="13" /></item>
+<item text="getFirstPin" id="852134" im0="12" im1="12" im2="12" ><item text="pin" id="852136" im0="13" im1="13" im2="13" /></item>
+<item text="getLastPin" id="852146" im0="12" im1="12" im2="12" ><item text="pin" id="852148" im0="13" im1="13" im2="13" /></item>
+<item text="getNumberOfSteps" id="884857" im0="12" im1="12" im2="12" ><item text="steps" id="884859" im0="13" im1="13" im2="13" /></item>
+<item text="incrementStep" id="917639" im0="12" im1="12" im2="12" /><item text="getStep" id="917661" im0="12" im1="12" im2="12" ><item text="step" id="917675" im0="13" im1="13" im2="13" /></item>
+<item text="getTolerance" id="950596" im0="12" im1="12" im2="12" ><item text="tol" id="950611" im0="13" im1="13" im2="13" /></item>
+<item text="getTolerance0V" id="950617" im0="12" im1="12" im2="12" ><item text="tol" id="950619" im0="13" im1="13" im2="13" /></item>
+</item>
+</item>
+<item text="testCases" id="758190" im0="0" im1="0" im2="0" ><item text="ADIN" id="758353" im0="8" im1="8" im2="8" ><item text="ADIN" id="758366" im0="4" im1="4" im2="4" /><item text="ADIN_COMP" id="758371" im0="7" im1="7" im2="7" /></item>
+<item text="initPinsADIN" id="953477" im0="6" im1="6" im2="6" ><item text="initPinsADIN" id="953482" im0="4" im1="4" im2="4" /><item text="initPinsADIN_COMP" id="953497" im0="7" im1="7" im2="7" /></item>
+</item>
+<item text="testSequences" id="758196" im0="0" im1="0" im2="0" ><item text="checkVoltage" id="819541" im0="9" im1="9" im2="9" ><item text="checkVoltage" id="819545" im0="4" im1="4" im2="4" /></item>
+<item text="setVoltage" id="758207" im0="9" im1="9" im2="9" ><item text="setVoltage" id="758211" im0="4" im1="4" im2="4" /></item>
+</item>
+</item>
+<item text="DAC" id="953553" im0="0" im1="0" im2="0" ><item text="methods" id="983106" im0="0" im1="0" im2="0" ><item text="DACEvaluate" id="983108" im0="10" im1="10" im2="10" ><item text="evaluate" id="983112" im0="12" im1="12" im2="12" ><item text="actualValue" id="983114" im0="5" im1="5" im2="5" /><item text="ratedValue" id="983116" im0="5" im1="5" im2="5" /><item text="result" id="983118" im0="13" im1="13" im2="13" /><item text="evaluate" id="983120" im0="4" im1="4" im2="4" /></item>
+</item>
+</item>
+<item text="parameters" id="953743" im0="0" im1="0" im2="0" ><item text="DACParameters" id="953745" im0="10" im1="10" im2="10" ><item text="step" id="953781" im0="11" im1="11" im2="11" /><item text="voltage" id="953783" im0="11" im1="11" im2="11" /><item text="firstPin" id="953785" im0="11" im1="11" im2="11" /><item text="lastPin" id="953787" im0="11" im1="11" im2="11" /><item text="numberOfSteps" id="953789" im0="11" im1="11" im2="11" /><item text="tolerance" id="983055" im0="11" im1="11" im2="11" /><item text="init" id="953749" im0="12" im1="12" im2="12" /><item text="getVoltage" id="953751" im0="12" im1="12" im2="12" ><item text="vol" id="953753" im0="13" im1="13" im2="13" /></item>
+<item text="getFirstPin" id="953755" im0="12" im1="12" im2="12" ><item text="pin" id="953757" im0="13" im1="13" im2="13" /></item>
+<item text="getLastPin" id="953759" im0="12" im1="12" im2="12" ><item text="pin" id="953761" im0="13" im1="13" im2="13" /></item>
+<item text="getNumberOfSteps" id="953763" im0="12" im1="12" im2="12" ><item text="steps" id="953765" im0="13" im1="13" im2="13" /></item>
+<item text="incrementStep" id="953767" im0="12" im1="12" im2="12" /><item text="getActualStep" id="953769" im0="12" im1="12" im2="12" ><item text="step" id="953771" im0="13" im1="13" im2="13" /></item>
+<item text="getTolerance" id="983061" im0="12" im1="12" im2="12" ><item text="tol" id="983063" im0="13" im1="13" im2="13" /></item>
+</item>
+</item>
+<item text="testCases" id="953569" im0="0" im1="0" im2="0" ><item text="DAC" id="953596" im0="8" im1="8" im2="8" ><item text="DAC" id="953613" im0="4" im1="4" im2="4" /><item text="DAC_COMP" id="953642" im0="7" im1="7" im2="7" /></item>
+<item text="initPinsDAC" id="953571" im0="6" im1="6" im2="6" ><item text="initPinsDAC" id="953576" im0="4" im1="4" im2="4" /><item text="initPinsDAC_COMP" id="953591" im0="7" im1="7" im2="7" /></item>
+</item>
+<item text="testSequences" id="953673" im0="0" im1="0" im2="0" ><item text="checkVoltage" id="953959" im0="9" im1="9" im2="9" ><item text="checkVoltage" id="953963" im0="4" im1="4" im2="4" /></item>
+<item text="enablePin" id="953901" im0="9" im1="9" im2="9" ><item text="enablePin" id="953905" im0="4" im1="4" im2="4" /></item>
+<item text="setVoltage" id="953928" im0="9" im1="9" im2="9" ><item text="setVoltage" id="953932" im0="4" im1="4" im2="4" /></item>
+</item>
+</item>
+<item text="DIN" id="393513" im0="0" im1="0" im2="0" ><item text="testCases" id="757830" im0="0" im1="0" im2="0" ><item text="DIN0" id="757844" im0="8" im1="8" im2="8" ><item text="DIN0" id="757857" im0="4" im1="4" im2="4" /><item text="DIN0_COMP" id="757862" im0="7" im1="7" im2="7" /></item>
+<item text="DIN1" id="757954" im0="8" im1="8" im2="8" ><item text="DIN1" id="757969" im0="4" im1="4" im2="4" /><item text="DIN1_COMP" id="757978" im0="7" im1="7" im2="7" /></item>
+<item text="init" id="758102" im0="6" im1="6" im2="6" ><item text="init" id="758107" im0="4" im1="4" im2="4" /><item text="init_COMP" id="758112" im0="7" im1="7" im2="7" /></item>
+</item>
+<item text="testSequences" id="757824" im0="0" im1="0" im2="0" ><item text="DINread" id="393519" im0="9" im1="9" im2="9" ><item text="DINread" id="393523" im0="4" im1="4" im2="4" /></item>
+<item text="DINset" id="393534" im0="9" im1="9" im2="9" ><item text="DINset" id="393538" im0="4" im1="4" im2="4" /></item>
+</item>
+</item>
+<item text="HBR" id="1015850" im0="0" im1="0" im2="0" ><item text="parameters" id="1016021" im0="0" im1="0" im2="0" ><item text="HBRParameters" id="1016023" im0="10" im1="10" im2="10" ><item text="sizeOfDutyCycleStep" id="1016407" im0="11" im1="11" im2="11" /><item text="bottomDutyCycle" id="1016414" im0="11" im1="11" im2="11" /><item text="upperDutyCycle" id="1016417" im0="11" im1="11" im2="11" /><item text="period" id="1016474" im0="11" im1="11" im2="11" /><item text="dutyCycleStep" id="1016530" im0="11" im1="11" im2="11" /><item text="tolerance" id="1049083" im0="11" im1="11" im2="11" /><item text="periodStep" id="1049117" im0="11" im1="11" im2="11" /><item text="numberOfPeriodSteps" id="1049132" im0="11" im1="11" im2="11" /><item text="init" id="1016027" im0="12" im1="12" im2="12" /><item text="getPeriod" id="1016029" im0="12" im1="12" im2="12" ><item text="per" id="1016031" im0="13" im1="13" im2="13" /></item>
+<item text="incrementDutyCycleStep" id="1016045" im0="12" im1="12" im2="12" /><item text="getSizeOfDutyCycleStep" id="1016424" im0="12" im1="12" im2="12" ><item text="size" id="1016426" im0="13" im1="13" im2="13" /></item>
+<item text="getBottomDutyCycle" id="1016432" im0="12" im1="12" im2="12" ><item text="bottom" id="1016434" im0="13" im1="13" im2="13" /></item>
+<item text="getUpperDutyCycle" id="1016440" im0="12" im1="12" im2="12" ><item text="upper" id="1016442" im0="13" im1="13" im2="13" /></item>
+<item text="getActualDutyCycle" id="1016546" im0="12" im1="12" im2="12" ><item text="duty" id="1016548" im0="13" im1="13" im2="13" /></item>
+<item text="getTolerance" id="1049091" im0="12" im1="12" im2="12" ><item text="tol" id="1049093" im0="13" im1="13" im2="13" /></item>
+<item text="getNumberOfPeriodSteps" id="1049136" im0="12" im1="12" im2="12" ><item text="steps" id="1049138" im0="13" im1="13" im2="13" /></item>
+<item text="incrementPeriodStep" id="1049188" im0="12" im1="12" im2="12" /></item>
+</item>
+<item text="testCases" id="1015852" im0="0" im1="0" im2="0" ><item text="HBR" id="1015879" im0="8" im1="8" im2="8" ><item text="HBR" id="1015898" im0="4" im1="4" im2="4" /><item text="HBR_COMP" id="1015924" im0="7" im1="7" im2="7" /></item>
+<item text="initPinsHBR" id="1015854" im0="6" im1="6" im2="6" ><item text="initPinsHBR" id="1015859" im0="4" im1="4" im2="4" /><item text="initPinsHBR_COMP" id="1015874" im0="7" im1="7" im2="7" /></item>
+</item>
+<item text="testSequences" id="1015935" im0="0" im1="0" im2="0" ><item text="checkVoltage" id="1015987" im0="9" im1="9" im2="9" ><item text="checkVoltage" id="1015991" im0="4" im1="4" im2="4" /></item>
+<item text="disablePin" id="1016377" im0="9" im1="9" im2="9" ><item text="disablePin" id="1016381" im0="4" im1="4" im2="4" /></item>
+<item text="enablePin" id="1015937" im0="9" im1="9" im2="9" ><item text="enablePin" id="1015941" im0="4" im1="4" im2="4" /></item>
+<item text="setDutyCycle" id="1015954" im0="9" im1="9" im2="9" ><item text="setDutyCycle" id="1015958" im0="4" im1="4" im2="4" /></item>
+</item>
+</item>
+<item text="LOUT" id="755082" im0="0" im1="0" im2="0" ><item text="parameters" id="951156" im0="0" im1="0" im2="0" ><item text="LOUTParameters" id="951158" im0="10" im1="10" im2="10" ><item text="firstPin" id="951198" im0="11" im1="11" im2="11" /><item text="lastPin" id="951200" im0="11" im1="11" im2="11" /><item text="logValue" id="951773" im0="11" im1="11" im2="11" /><item text="step" id="951776" im0="11" im1="11" im2="11" /><item text="init" id="951162" im0="12" im1="12" im2="12" /><item text="getFirstPin" id="951168" im0="12" im1="12" im2="12" ><item text="pin" id="951170" im0="13" im1="13" im2="13" /></item>
+<item text="getLastPin" id="951172" im0="12" im1="12" im2="12" ><item text="pin" id="951174" im0="13" im1="13" im2="13" /></item>
+<item text="getLogValue" id="951786" im0="12" im1="12" im2="12" ><item text="logVal" id="951800" im0="13" im1="13" im2="13" /></item>
+<item text="incrementStep" id="951809" im0="12" im1="12" im2="12" /></item>
+</item>
+<item text="testCases" id="755093" im0="0" im1="0" im2="0" ><item text="LOUT" id="950788" im0="8" im1="8" im2="8" ><item text="LOUT" id="950807" im0="4" im1="4" im2="4" /><item text="LOUT_COMP" id="950818" im0="7" im1="7" im2="7" /></item>
+<item text="initPinsLOUT" id="951330" im0="6" im1="6" im2="6" ><item text="initPinsLOUT" id="951335" im0="4" im1="4" im2="4" /><item text="initPinsLOUT_COMP" id="951350" im0="7" im1="7" im2="7" /></item>
+</item>
+<item text="testSequences" id="755099" im0="0" im1="0" im2="0" ><item text="checkValueOverRS232" id="524406" im0="9" im1="9" im2="9" ><item text="checkValueOverRS232" id="524426" im0="4" im1="4" im2="4" /></item>
+<item text="checkValueOverTCP" id="589871" im0="9" im1="9" im2="9" ><item text="checkValueOverTCP" id="589883" im0="4" im1="4" im2="4" /></item>
+<item text="setLogValue" id="164046" im0="9" im1="9" im2="9" ><item text="setLogValue" id="164050" im0="4" im1="4" im2="4" /></item>
+</item>
+</item>
+<item text="MOUT" id="1048576" im0="0" im1="0" im2="0" ><item text="parameters" id="1048757" im0="0" im1="0" im2="0" ><item text="MOUTParameters" id="1048759" im0="10" im1="10" im2="10" ><item text="firstPin" id="1048779" im0="11" im1="11" im2="11" /><item text="lastPin" id="1048781" im0="11" im1="11" im2="11" /><item text="logValue" id="1048783" im0="11" im1="11" im2="11" /><item text="step" id="1048785" im0="11" im1="11" im2="11" /><item text="init" id="1048763" im0="12" im1="12" im2="12" /><item text="getFirstPin" id="1048765" im0="12" im1="12" im2="12" ><item text="pin" id="1048767" im0="13" im1="13" im2="13" /></item>
+<item text="getLastPin" id="1048769" im0="12" im1="12" im2="12" ><item text="pin" id="1048771" im0="13" im1="13" im2="13" /></item>
+<item text="getLogValue" id="1048773" im0="12" im1="12" im2="12" ><item text="logVal" id="1048775" im0="13" im1="13" im2="13" /></item>
+<item text="incrementStep" id="1048777" im0="12" im1="12" im2="12" /></item>
+</item>
+<item text="testCases" id="1048578" im0="0" im1="0" im2="0" ><item text="MOUT" id="1048605" im0="8" im1="8" im2="8" ><item text="MOUT" id="1048624" im0="4" im1="4" im2="4" /><item text="MOUT_COMP" id="1048645" im0="7" im1="7" im2="7" /></item>
+<item text="initPinsMOUT" id="1048580" im0="6" im1="6" im2="6" ><item text="initPinsMOUT" id="1048585" im0="4" im1="4" im2="4" /><item text="initPinsMOUT_COMP" id="1048600" im0="7" im1="7" im2="7" /></item>
+</item>
+<item text="testSequences" id="1048656" im0="0" im1="0" im2="0" ><item text="checkValueOverRS232" id="1048658" im0="9" im1="9" im2="9" ><item text="checkValueOverRS232" id="1048662" im0="4" im1="4" im2="4" /></item>
+<item text="checkValueOverTCP" id="1048690" im0="9" im1="9" im2="9" ><item text="checkValueOverTCP" id="1048694" im0="4" im1="4" im2="4" /></item>
+<item text="setLogValue" id="1048722" im0="9" im1="9" im2="9" ><item text="setLogValue" id="1048726" im0="4" im1="4" im2="4" /></item>
+</item>
+</item>
+</item>
+<item text="test" id="163944" im0="8" im1="8" im2="8" ><item text="test" id="163957" im0="4" im1="4" im2="4" /><item text="test_COMP" id="163962" im0="7" im1="7" im2="7" /></item>
+</item>
+<item text="EnvironmentConfig" id="163871" im0="1" im1="1" im2="1" /><item text="RPP_SUITE" id="164292" im0="2" im1="2" im2="2" ><item text="execute" id="164299" im0="3" im1="3" im2="3" ><item text="runs" id="164306" im0="5" im1="5" im2="5" /><item text="execute" id="164301" im0="4" im1="4" im2="4" /></item>
+<item text="initialization" id="164308" im0="3" im1="3" im2="3" ><item text="runs" id="164315" im0="5" im1="5" im2="5" /><item text="initialization" id="164310" im0="4" im1="4" im2="4" /></item>
+<item text="deInitialization" id="164317" im0="3" im1="3" im2="3" ><item text="runs" id="164324" im0="5" im1="5" im2="5" /><item text="deInitialization" id="164319" im0="4" im1="4" im2="4" /></item>
+<item text="test" id="262514" im0="3" im1="3" im2="3" ><item text="runs" id="262521" im0="5" im1="5" im2="5" /><item text="test" id="262516" im0="4" im1="4" im2="4" /></item>
+<item text="LOUT" id="426165" im0="3" im1="3" im2="3" ><item text="runs" id="426172" im0="5" im1="5" im2="5" /><item text="LOUT" id="426167" im0="4" im1="4" im2="4" /></item>
+<item text="DIN" id="758026" im0="3" im1="3" im2="3" ><item text="runs" id="758033" im0="5" im1="5" im2="5" /><item text="DIN" id="758028" im0="4" im1="4" im2="4" /></item>
+<item text="ADIN" id="819332" im0="3" im1="3" im2="3" ><item text="runs" id="819339" im0="5" im1="5" im2="5" /><item text="ADIN" id="819334" im0="4" im1="4" im2="4" /></item>
+<item text="DAC" id="953820" im0="3" im1="3" im2="3" ><item text="runs" id="953827" im0="5" im1="5" im2="5" /><item text="DAC" id="953822" im0="4" im1="4" im2="4" /></item>
+<item text="HBR" id="1015835" im0="3" im1="3" im2="3" ><item text="runs" id="1015842" im0="5" im1="5" im2="5" /><item text="HBR" id="1015837" im0="4" im1="4" im2="4" /></item>
+<item text="MOUT" id="1049030" im0="3" im1="3" im2="3" ><item text="runs" id="1049037" im0="5" im1="5" im2="5" /><item text="MOUT" id="1049032" im0="4" im1="4" im2="4" /></item>
+</item>
+</item>
+</item>
+</tree>
