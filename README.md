@@ -9,8 +9,8 @@ TODO
 
   DIN piny nezapojené
 
-  • Nastavit pull-up, active, zkontrolovat, že ctu 0
   • Nastavit pull-down, active, zkontrolovat, že ctu 0
+  • Nastavit pull-up, active, zkontrolovat, že ctu 0
 
   DIN piny zapojit na DOUT0-7
 
@@ -32,18 +32,6 @@ TODO
     privedená napetí 1, 3, 5 V nebo 3, 5, 7 V a otestovat že
     volitelná rozhodovací úroven je brána v potaz
 
-
-7 HOUT1-6 (10A)
-------------
-
-  NEZAPOJENÉ VÝSTUPY
-
-  • zapnout, pockat 10 ms, vypnout, pockat 10 ms, zapnout, vždy hodí chybu (príkaz houtfail)
-  • nastavit krátkou periodu PWM (2 us), také hodí chybu (alternativa)
-
-  PRIPOJIT ZÁTEŽ (do 100 Ohm)
-
-  • vypnout na 50 ms a pokusit se znovu zapnout, nemel by házet chybu. Zkontrolovat príkazem houtfail. Pripojit paralelne
-    testovací desku a kontrolovat PWM pomocí dolnofrekvencních filtru
-
-
+4 HBR
+----------------------------
+druha polovina mustku

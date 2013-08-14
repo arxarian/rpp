@@ -7,7 +7,6 @@
 int dowrite(unsigned int par1, double par2, SOCKET sock) {
 
     HUDAQHANDLE h;
-    unsigned i;
     char msg[100];
 
     /* open a handle to the first MF624 device in the system */

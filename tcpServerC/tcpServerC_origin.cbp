@@ -15,8 +15,8 @@
 					<Add option="-g" />
 				</Compiler>
 				<Linker>
-					<Add library="C:\Users\EXAM\Desktop\tcpServerC\libws2_32.a" />
-					<Add library="C:\Users\EXAM\Downloads\tcpServerC_origin\tcpServerC\hudaqlib.lib" />
+					<Add library="C:\Users\EXAM\Desktop\git\tcpServerC\libws2_32.a" />
+					<Add library="C:\Users\EXAM\Desktop\git\tcpServerC\hudaqlib.lib" />
 				</Linker>
 			</Target>
 			<Target title="Release">

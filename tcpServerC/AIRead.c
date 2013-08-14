@@ -25,7 +25,7 @@ int airead(unsigned int par1, double par2, SOCKET sock) {
     intValue = value;
     sprintf(msg, "airead%d=%d%\r\n", par1, intValue);
     sendMsg(sock, msg);
-    printf("\nAnalog channel %d, value read %f V. Integer read %d mV.\n", par1, value, intValue);
+    printf("\nAnalog channel %d, value read %f mV. Integer read %d mV.\n", par1, value, intValue);
 
     /* close the device handle */
     HudaqCloseDevice(h);
