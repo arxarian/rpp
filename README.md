@@ -4,19 +4,6 @@ TODO
 ------------------
 2. testy
 
-2 DIN0-7 (programmable)
------------------------
-
-  DIN piny nezapojené
-
-  • Nastavit pull-up, active, zkontrolovat, že ctu 0
-  • Nastavit pull-down, active, zkontrolovat, že ctu 0
-
-  DIN piny zapojit na DOUT0-7
-
-  • nastavit pull-down, tri-state otestovat, že výstup z Hum karty se objeví na DIN vstupu
-
-
 3 DIN8-15 (switch-to-ground)
 ----------------------------
 
