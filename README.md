@@ -1,6 +1,6 @@
 TODO
 ------------------
-1. inicializacni sekvence (napr. hbrdisable)
+1. inicializacni sekvence (napr. hbrdisable, poweron, pinvalVBAT2EN 1, pinvalVBAT3EN 1)
 ------------------
 2. testy
 
@@ -9,8 +9,8 @@ TODO
 
   DIN piny nezapojené
 
-  • Nastavit pull-down, active, zkontrolovat, že ctu 0
   • Nastavit pull-up, active, zkontrolovat, že ctu 0
+  • Nastavit pull-down, active, zkontrolovat, že ctu 0
 
   DIN piny zapojit na DOUT0-7
 
@@ -31,7 +31,3 @@ TODO
   * nastavit volitelnou rozhodovací úroven na 2, 6 V a testovat DIN vstupy pro
     privedená napetí 1, 3, 5 V nebo 3, 5, 7 V a otestovat že
     volitelná rozhodovací úroven je brána v potaz
-
-4 HBR
-----------------------------
-druha polovina mustku
