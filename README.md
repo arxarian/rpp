@@ -14,7 +14,7 @@ TODO
 
   DIN piny zapojit na DOUT0-7
 
-  • nastavit tri-state, pull-down, otestovat, že výstup z Hum karty se objeví na DIN vstupu
+  • nastavit pull-down, tri-state otestovat, že výstup z Hum karty se objeví na DIN vstupu
 
 
 3 DIN8-15 (switch-to-ground)
@@ -31,3 +31,5 @@ TODO
   * nastavit volitelnou rozhodovací úroven na 2, 6 V a testovat DIN vstupy pro
     privedená napetí 1, 3, 5 V nebo 3, 5, 7 V a otestovat že
     volitelná rozhodovací úroven je brána v potaz
+
+4 predelat testy ADIN na sudý a lichý

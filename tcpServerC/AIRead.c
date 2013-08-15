@@ -8,8 +8,6 @@ int airead(unsigned int par1, double par2, SOCKET sock) {
 
     HUDAQHANDLE h;
     double value;
-    int intValue;
-
     char msg[100];
 
     /* open a handle to the first MF624 device in the system */
@@ -22,10 +20,10 @@ int airead(unsigned int par1, double par2, SOCKET sock) {
 
     /* read analog input par1 */
     value = HudaqAIRead(h, par1) * 1000;
-    intValue = value;
-    sprintf(msg, "airead%d=%d%\r\n", par1, intValue);
+    printf("\nAnalog channel %d, value read %f mV. Integer read %d mV.\n", par1, value, (int)value);
+
+    sprintf(msg, "airead%d=%d%\r\n", par1, (int)value);
     sendMsg(sock, msg);
-    printf("\nAnalog channel %d, value read %f mV. Integer read %d mV.\n", par1, value, intValue);
 
     /* close the device handle */
     HudaqCloseDevice(h);
