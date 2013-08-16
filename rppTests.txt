@@ -9,9 +9,7 @@
 1 ADIN1-12
 ----------
 
-  Hum DAx pripojit na ADINx+1, ADIN x+5 a ADINx+9
-
-  • Hum generuje napetí 0, 1, … 10V, bude se testovat, že ctené napetí
+ • Hum generuje napetí 0, 1, … 10V, bude se testovat, že ctené napetí
     odpovídá.
 
 
@@ -85,7 +83,7 @@
   NEZAPOJENÉ VÝSTUPY
 
   • zapnout, pockat 10 ms, vypnout, pockat 10 ms, zapnout, vždy hodí chybu (príkaz houtfail)
-  • nastavit krátkou periodu PWM (2 us), také hodí chybu (alternativa)
+  * nastavit krátkou periodu PWM (2 us), také hodí chybu (alternativa)
 
   PRIPOJIT ZÁTEŽ (do 100 Ohm)
 

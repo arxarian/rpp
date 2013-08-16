@@ -136,6 +136,8 @@ int startServer()
 int main()
 {
     cm = initCommands();
+    h = HudaqOpenDevice("MF614", 1, 0);
+
     startServer();
 
     return 0;

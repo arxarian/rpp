@@ -20,6 +20,11 @@ void doHelp(int * par, command * cm, SOCKET sock) {
     return msg;
 }
 */
+void quit(unsigned int par1, double par2, SOCKET sock) {
+
+        HudaqCloseDevice(h);
+}
+
 command * initCommands(void) {
 
     static command commands[] = {
@@ -27,7 +32,8 @@ command * initCommands(void) {
         {1, "dowrite", "writes all bits to a digital output channels", dowrite},
         {2, "airead", "reading aIN of analog input channels", airead},
         {3, "aowrite", "writes to analog output channels", aowrite},
-        {4, "", "", NULL}};
+        {4, "quit", "close hummusoft device", quit},
+        {5, "", "", NULL}};
 
     //printf("init complete\n");
 

@@ -6,12 +6,12 @@
 
 int airead(unsigned int par1, double par2, SOCKET sock) {
 
-    HUDAQHANDLE h;
+    //HUDAQHANDLE h;
     double value;
     char msg[100];
 
     /* open a handle to the first MF624 device in the system */
-    h = HudaqOpenDevice("MF614", 1, 0);
+    //h = HudaqOpenDevice("MF614", 1, 0);
     if (h==0) {
         printf("\nData acquisition device not found.\n");
         sendMsg(sock, HUMERR);
@@ -26,7 +26,7 @@ int airead(unsigned int par1, double par2, SOCKET sock) {
     sendMsg(sock, msg);
 
     /* close the device handle */
-    HudaqCloseDevice(h);
+    //HudaqCloseDevice(h);
 
     return 0;
 }

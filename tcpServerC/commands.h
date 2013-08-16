@@ -10,5 +10,6 @@ typedef struct command {
 
 command * initCommands(void);
 //void doHelp(int * par, command * cm, SOCKET sock);
+void quit(unsigned int par1, double par2, SOCKET sock);
 
 #endif // COMMANDS_H_INCLUDED

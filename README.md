@@ -1,11 +1,20 @@
 TODO
 ------------------
-1. inicializacni sekvence (napr. hbrdisable, poweron, pinvalVBAT2EN 1, pinvalVBAT3EN 1)
+1. poradí testu:
 
-2. predelat testy ADIN na sudý a lichý
-
-3. poradí testu:
-
-AD
+1&2
+LOUT
+MOUT
+3
+HOUT
+HBR
+4
+ADIN
 DIN0-7
+4&5
 DIN8-15
+DAC
+
+2. hout wait?
+
+3. houtpwm obcas odesle enter navic

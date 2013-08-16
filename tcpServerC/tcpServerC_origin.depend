@@ -60,7 +60,7 @@
 	<stdio.h>
 	<winsock.h>
 
-1376567745 source:c:\users\exam\desktop\git\tcpserverc\airead.c
+1376579006 source:c:\users\exam\desktop\git\tcpserverc\airead.c
 	<stdio.h>
 	<winsock.h>
 	"hudaqlib.h"
@@ -68,8 +68,9 @@
 
 1374671902 c:\users\exam\desktop\git\tcpserverc\hudaqlib.h
 
-1374486423 c:\users\exam\desktop\git\tcpserverc\server.h
+1376579092 c:\users\exam\desktop\git\tcpserverc\server.h
 	<winsock.h>
+	"hudaqlib.h"
 
 1375359475 source:c:\users\exam\desktop\git\tcpserverc\commands.c
 	<stdio.h>
@@ -91,19 +92,19 @@
 
 1375714939 c:\users\exam\desktop\git\tcpserverc\commands.h
 
-1376567766 source:c:\users\exam\desktop\git\tcpserverc\diread.c
+1376578990 source:c:\users\exam\desktop\git\tcpserverc\diread.c
 	<stdio.h>
 	<winsock.h>
 	"hudaqlib.h"
 	"server.h"
 
-1376567571 source:c:\users\exam\desktop\git\tcpserverc\dowrite.c
+1376578998 source:c:\users\exam\desktop\git\tcpserverc\dowrite.c
 	<stdio.h>
 	<winsock.h>
 	"hudaqlib.h"
 	"server.h"
 
-1375865814 source:c:\users\exam\desktop\git\tcpserverc\main.c
+1376578960 source:c:\users\exam\desktop\git\tcpserverc\main.c
 	<stdio.h>
 	<stdlib.h>
 	<winsock.h>
@@ -115,9 +116,8 @@
 	<stdio.h>
 	<winsock.h>
 
-1376567774 source:c:\users\exam\desktop\git\tcpserverc\aowrite.c
+1376578861 source:c:\users\exam\desktop\git\tcpserverc\aowrite.c
 	<stdio.h>
 	<winsock.h>
-	"hudaqlib.h"
 	"server.h"
 
