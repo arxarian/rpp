@@ -15,6 +15,4 @@ DIN0-7
 DIN8-15
 DAC
 
-2. hout wait?
-
-3. houtpwm obcas odesle enter navic
+2. zmenit ADIN parameter class
