@@ -2,6 +2,7 @@
 
 xmi.zip: $(shell find xmi -mindepth 1)
 	rm -f $@
+	cd xmi && zip ../$@ *
 	cd xmi && zip -r ../$@ .
 
 xmi:
