@@ -515,6 +515,11 @@
 </item>
 </item>
 </item>
+<item text="rs232" id="1802241" im0="0" im1="0" im2="0" ><item text="RS232_RPP" id="1802247" im0="10" im1="10" im2="10" ><item text="aRS232Handle" id="1802458" im0="4" im1="4" im2="4" /><item text="sendFile" id="1802446" im0="11" im1="11" im2="11" ><item text="sFile" id="1802448" im0="7" im1="7" im2="7" /><item text="sResult" id="1802450" im0="12" im1="12" im2="12" /></item>
+<item text="sendCommand" id="1802452" im0="11" im1="11" im2="11" ><item text="sCommand" id="1802454" im0="7" im1="7" im2="7" /><item text="sResult" id="1802456" im0="12" im1="12" im2="12" /></item>
+<item text="closeChannel" id="1802460" im0="11" im1="11" im2="11" /><item text="openChannel" id="1802462" im0="11" im1="11" im2="11" ><item text="sPort" id="1802464" im0="7" im1="7" im2="7" /><item text="iBaudrate" id="1802466" im0="7" im1="7" im2="7" /><item text="sParity" id="1802468" im0="7" im1="7" im2="7" /><item text="iStopBit" id="1802470" im0="7" im1="7" im2="7" /><item text="iDataBits" id="1802472" im0="7" im1="7" im2="7" /><item text="iBufferSize" id="1802474" im0="7" im1="7" im2="7" /><item text="iTimeOut" id="1802476" im0="7" im1="7" im2="7" /></item>
+</item>
+</item>
 <item text="server" id="328083" im0="0" im1="0" im2="0" ><item text="Server" id="328089" im0="10" im1="10" im2="10" ><item text="startServer" id="557419" im0="11" im1="11" im2="11" ><item text="startServer" id="557421" im0="6" im1="6" im2="6" /></item>
 <item text="diread" id="557450" im0="11" im1="11" im2="11" ><item text="bit" id="589824" im0="7" im1="7" im2="7" /><item text="value" id="589827" im0="12" im1="12" im2="12" /><item text="diread" id="589836" im0="6" im1="6" im2="6" /></item>
 <item text="dowrite" id="557460" im0="11" im1="11" im2="11" ><item text="bit" id="1245855" im0="7" im1="7" im2="7" /><item text="value" id="1245859" im0="7" im1="7" im2="7" /><item text="dowrite" id="557462" im0="6" im1="6" im2="6" /></item>
