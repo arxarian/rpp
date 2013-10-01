@@ -1,7 +1,14 @@
-xmi.zip: $(shell find xmi)
+.PHONY: xmi commit
+
+xmi.zip: $(shell find xmi -mindepth 1)
 	rm -f $@
+	cd xmi && zip ../$@ *
 	cd xmi && zip -r ../$@ .
 
-xmi: xmi.zip
+xmi:
 	rm -rf xmi
-	unzip -d xmi $<
+	unzip -d xmi xmi.zip
+
+commit:
+	git add -A xmi
+	git commit
